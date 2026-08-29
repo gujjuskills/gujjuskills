@@ -11,15 +11,15 @@
       "children": [
         {
           "name": "COPA Theory",
-          "url": ""
+          "url": "/copa-theory-list"
         },
         {
           "name": "COPA Practical",
-          "url": ""
+          "url": "/copa-practical-list"
         },
         {
           "name": "COPA QUIZ",
-          "url": ""
+          "url": "/copa-quiz"
         }
       ]
     },
