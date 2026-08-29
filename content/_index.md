@@ -4,7 +4,7 @@ banner:
   title_small: "Skill Up Today, Shine Tomorrow With GujjuSkills"
   content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/banner-author1.webp
   button:
     enable: true
     label: Know About Me
