@@ -4,13 +4,43 @@
       "name": "Home",
       "url": "/"
     },
-    {
-      "name": "About",
-      "url": "/about"
+   {
+      "name": "COPA",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "COPA Theory",
+          "url": ""
+        },
+        {
+          "name": "COPA Practical",
+          "url": ""
+        },
+        {
+          "name": "COPA QUIZ",
+          "url": ""
+        }
+      ]
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Technology",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Mobile",
+          "url": ""
+        },
+        {
+          "name": "Social Media",
+          "url": ""
+        },
+        {
+          "name": "Computer",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "Contact",
