@@ -1,6 +1,6 @@
 hello from jaydipsinh chauhan
 
-[palak chaunan](content/about)
+[palak chaunan](/about)
 
 saiyamsinh chauhan
 
