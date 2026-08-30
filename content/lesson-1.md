@@ -1,6 +1,7 @@
-x\c\cdafadfafdsafsafsafasfvt
+---
+title:safe working Practice"
+slug:lesson-1
+---
+# safe woking practica
 
-adfdafdsafrgd
-sv
-d
-dsaf
+copa trade
