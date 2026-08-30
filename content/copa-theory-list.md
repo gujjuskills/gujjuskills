@@ -1,6 +1,6 @@
 # COPA THEORY LIST
 
-<link href="/lesson-1">click here</link>
+<Link href="/lesson-1">click here</Link>
 
 [1. safe working Practice](content/lesson-1)
 
