@@ -5,7 +5,6 @@ import { getListPage, getSinglePage } from "@lib/contentParser";
 import { markdownify } from "@lib/utils/textConverter";
 import { sortByDate } from "@lib/utils/sortFunctions";
 import Post from "@partials/Post";
-import link from "next/link";
 const { blog_folder, summary_length } = config.settings;
 
 // blog pagination
