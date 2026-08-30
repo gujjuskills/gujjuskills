@@ -64,15 +64,19 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "About Us",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contact Us",
       "url": "/contact"
     },
     {
       "name": "Privacy Policy",
+      "url": "#"
+    },
+    {
+      "name": "Disclaimer",
       "url": "#"
     }
   ]
