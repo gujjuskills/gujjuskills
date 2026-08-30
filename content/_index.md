@@ -1,7 +1,7 @@
 ---
 banner:
   title: Welcome GujjuSkills **!**
-  title_small: "Skill Up Today, Shine Tomorrow With GujjuSkills"
+  title_small: "Skill Up Shine Bright"
   image_enable: true
   image: /images/banner-author1.webp
   button:
