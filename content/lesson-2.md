@@ -1,5 +1,10 @@
 # Lesson-2 :  **COPA**નું કાર્યક્ષેત્ર અને રોજગારીની તકો
 
+---
+![image](/gujjuskills/images/lesson-2.webp)
+
+---
+
 ## Directorate General of Training (DGT)
 DGT એ ધંધાકીય તથા વ્યવસાયિક જરૂરિયાત મુજબના અલગ અલગ ઘણાબધા Courses ધરાવે છે.
 આવા **Vocational Training Program (વ્યવસાયિક તાલીમ કાર્યક્રમો)** National Council of Vocational Training (NCVT) દ્વારા ચલાવવામાં આવે છે.
