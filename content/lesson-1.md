@@ -1,5 +1,6 @@
 # Lesson-1 : સલામતી પૂર્વક કામ કરવાની પ્રથાઓ
 
+![image](/lesson-1.webp)
 
 ## SWP – Safe Working Practices
 
