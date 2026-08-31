@@ -65,11 +65,11 @@
     },
     {
       "name": "About Us",
-      "url": "https://gujjuskills.github.io/gujjuskills/about/"
+      "url": "/gujjuskills/about/"
     },
     {
       "name": "Contact Us",
-      "url": "/contact"
+      "url": "/gujjuskills/contact/"
     },
     {
       "name": "Privacy Policy",
