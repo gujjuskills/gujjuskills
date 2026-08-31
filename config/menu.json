@@ -65,7 +65,7 @@
     },
     {
       "name": "About Us",
-      "url": "/about"
+      "url": "content/about.md"
     },
     {
       "name": "Contact Us",
