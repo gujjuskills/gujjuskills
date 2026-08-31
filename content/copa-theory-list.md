@@ -5,3 +5,5 @@
 [2. Scope of the COPA trade](../lesson-2/)
 
 [3. Safety rules and safety signs](../lesson-3/)
+
+[4. Types and working of fire extinguishers](../lesson-4/)
