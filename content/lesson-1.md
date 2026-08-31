@@ -1,7 +1,7 @@
 # Lesson-1 : સલામતી પૂર્વક કામ કરવાની પ્રથાઓ
 
 ---
-![image](/public/images/logo2.png)
+![image](/gujjuskills/images/logo2.png)
 
 ---
 
