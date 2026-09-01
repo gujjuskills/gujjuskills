@@ -27,7 +27,7 @@ const Footer = () => {
         {markdownify(footer_content, "p", "max-w-[638px] mx-auto")}
 
         {/* footer menu */}
-        <ul className="mb-12 mt-6 flex flex-wrap jusitfy-center gap-2 lg:gap-4">
+        <ul className="mb-12 mt-6 flex flex-wrap justify-center gap-2 lg:gap-4">
               {menu.footer.map((item) => (
             <li className="inline-block" key={item.name}>
           <Link
