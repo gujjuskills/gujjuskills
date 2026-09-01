@@ -32,8 +32,9 @@ Continued use of the Site after changes are posted constitutes your acceptance o
 ## 9. Governing Law
 These Terms are governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of law principles.
 ## 10. Contact Us
-If you have any questions about these Terms, please contact us at:
-📧 Email: [mail2jaydip@gmail.com]
-🌐 Website: www.gujjuskills.com
+If you have any questions about these Terms,
+please contact us at:
 
-FacebookWhatsAppTelegramGmailPinterestShare
+📧 Email: [jbchauhanofficial@gmail.com]
+
+🌐 Website: www.gujjuskills.com
