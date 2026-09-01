@@ -1,20 +1,12 @@
----
-title: "Let’s, Talk </br> About You"
-description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
-form_action: "#"
-layout: "contact"
-addresses:
-  - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
-  - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
-  - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+# Contact Us
+We’d love to hear from you!
 
-draft: false
----
+Whether you have a question, suggestion, or just want to say hello — we’re always open to connecting with our readers. Your feedback helps us grow and serve you better.
+
+📬 General Inquiries
+
+Have a question about our blog, topics we cover, or something else?
+
+📧 Email us at:
+
+jbchauhanofficial@gmail.com
