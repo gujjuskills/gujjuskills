@@ -1,5 +1,5 @@
-# Terms & Condition
-Last Updated: [01-Oct-2025]
+# Terms & Conditions
+Last Updated: [01-sep-2026]
 
 Welcome to GujjuSkills.com!
 
