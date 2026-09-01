@@ -24,6 +24,25 @@
       ]
     },
     {
+      "name": "Technology",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "mobile",
+          "url": "https://gujjuskills.github.io/gujjuskills/categories/mobile/"
+        },
+        {
+          "name": "Social Media",
+          "url": "https://gujjuskills.github.io/gujjuskills/categories/socialmedia/"
+        },
+        {
+          "name": "Computer",
+          "url": "https://gujjuskills.github.io/gujjuskills/categories/computer/"
+        }
+      ]
+    },
+    {
       "name": "Lastet",
       "url": "",
       "hasChildren": true,
