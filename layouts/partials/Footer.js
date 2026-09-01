@@ -27,21 +27,18 @@ const Footer = () => {
         {markdownify(footer_content, "p", "max-w-[638px] mx-auto")}
 
         {/* footer menu */}
-        <ul className="mb-12 mt-6 flex-wrap space-x-2 lg:space-x-4">
-          {menu.footer.map((menu) => (
-            <li className="inline-block" key={menu.name}>
-              <Link
-                href={`${menu.url}/#!`}
-                onClick={(e) => {
-                  e.preventDefault();
-                }}
-                className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
-              >
-                {menu.name}
+        <ul className="mb-12 mt-6 flex flex-wrap gap-2 lg:gap-4">
+              {menu.footer.map((item) => (
+            <li className="inline-block" key={item.name}>
+          <Link
+              href={item.url}
+              className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
+            >
+                {item.name}
               </Link>
-            </li>
-          ))}
-        </ul>
+              </li>
+            ))}
+      </ul>
         {/* social icons */}
         <div className="inline-flex">
           <Social source={social} className="socials mb-12 justify-center" />
