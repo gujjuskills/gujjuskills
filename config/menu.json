@@ -49,11 +49,11 @@
       "children": [
         {
           "name": "News",
-          "url": "https://gujjuskills.github.io/gujjuskills/categories/mobile/"
+          "url": "https://gujjuskills.github.io/gujjuskills/categories/latestnews/"
         },
         {
           "name": "Jobs",
-          "url": "https://gujjuskills.github.io/gujjuskills/categories/socialmedia/"
+          "url": "https://gujjuskills.github.io/gujjuskills/categories/latestjobs/"
         }
       ]
     },
