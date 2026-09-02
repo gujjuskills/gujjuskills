@@ -2,7 +2,7 @@
 
 [લેશન - ૧ : સલામત કામ કરવાની પધ્ધતિ](../lesson-1/)
 
-[2. Scope of the COPA trade](../lesson-2/)
+[લેશન -૨ : કોપા ટ્રેડનું કાર્યક્ષેત્](../lesson-2/)
 
 [3. Safety rules and safety signs](../lesson-3/)
 
