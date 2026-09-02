@@ -1,6 +1,6 @@
 # COPA THEORY LIST
 
-[1. safe working Practice](../lesson-1/)
+[લેશન - ૧ : સલામત કામ કરવાની પધ્ધતિ](../lesson-1/)
 
 [2. Scope of the COPA trade](../lesson-2/)
 
