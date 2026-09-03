@@ -10,6 +10,6 @@
 
 ### અગ્નિશામકના પ્રકારો :
 
-| અગ્નિશામકના પ્રકાર | ફોમ પ્રકાર | પાણી ભરેલ પ્રકાર | CO₂ પ્રકાર | હેલોન પ્રકાર | ડ્રાય કેમિકલ પાવડર | વિશેષ પ્રકાર |
+| Type of Fire extenguisher | Form Type | Water Filled Type | CO₂ Type | halon Type | Dry Chemical Powder | Special Type |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **કયા પ્રકારની આગ માટે ઉપયોગ કરી શકાય** | Class A, Class B | Class A | Class B, Class C, Class E | Class A, Class B, Class C, Class E | Class A, Class B, Class C, Class E | Class D, Class F |
