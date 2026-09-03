@@ -1,16 +1,3 @@
-<style>
-table th,
-table td {
-  text-align: center;
-  vertical-align: middle;
-}
-
-table td img {
-  display: block;
-  margin: auto;
-}
-</style>
-
 # લેશન - ૮.૫ : વિવિધ ઉપકરણોના ઉપયોગ અને તેમની વિશેષતાઓ
 
  | ક્રમ | ઉપકરણ | ચિત્ર | ઉપયોગ અને વિશેષતાઓ |
