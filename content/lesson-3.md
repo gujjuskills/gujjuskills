@@ -3,4 +3,4 @@
 | **ગુજરાતી અર્થ** | મનાઈ અથવા પ્રતિબંધ | ફરજિયાત કાર્ય | જોખમ અંગે ચેતવણી | સલામત સ્થિતિ અથવા માર્ગ | આગ સલામતી |
 | **ચિહ્ન કલર** | લાલ અને સફેદ | વાદળી અને સફેદ | પીળો અને કાળો | લીલો અને સફેદ | લાલ અને સફેદ |
 | **ચિહ્ન આકાર** | ગોળ | ગોળ | ત્રિકોણ | ચોરસ | ચોરસ |
-| **ચિહ્ન દોરી** | ![image](/gujjuskills/images/prohibition.png) | ![image](/gujjuskills/images/mandatory.png) | ![image](/gujjuskills/images/warning.png) | ![image](/gujjuskills/images/warning.png) | ![image](/gujjuskills/images/firesafety.png) |
+| **ચિહ્ન દોરો** | ![image](/gujjuskills/images/prohibition.png) | ![image](/gujjuskills/images/mandatory.png) | ![image](/gujjuskills/images/warning.png) | ![image](/gujjuskills/images/warning.png) | ![image](/gujjuskills/images/firesafety.png) |
