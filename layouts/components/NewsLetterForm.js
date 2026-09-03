@@ -16,20 +16,28 @@ function CustomForm({ status, message, onValidated }) {
 
   return (
     <>
-      <form action="#" className="py-6" onSubmit={handleSubmit}>
-        <fieldset className="relative">
-          <input
-            className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs dark:bg-darkmode-theme-dark"
-            type="text"
-            placeholder="Type And Hit Enter"
-            onChange={(e) => setEmail(e.target.value)}
-          />
-          <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75" />
-        </fieldset>
-        <button className="d-block  btn btn-primary mt-4 w-full" type="submit">
-          Sign In
-        </button>
-      </form>
+      <form className="py-6" onSubmit={handleSubmit}>
+  <fieldset className="relative">
+    <input
+      className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs"
+      type="email"
+      name="email"
+      value={email}
+      placeholder="Type And Hit Enter"
+      onChange={(e) => setEmail(e.target.value)}
+      required
+    />
+
+    <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75" />
+  </fieldset>
+
+  <button
+    className="d-block btn btn-primary mt-4 w-full"
+    type="submit"
+  >
+    Sign In
+  </button>
+</form>
       {status === "sending" && (
         <div className="mt-4 text-primary">sending...</div>
       )}
