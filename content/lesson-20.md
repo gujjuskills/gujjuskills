@@ -1,4 +1,4 @@
-# લેશન - 20 :  PowerShell Cmdlet શીખો
+# લેશન - ૨૦ :  PowerShell Cmdlet શીખો
 
 ## PowerShell અને Cmdlet શું છે?
 
