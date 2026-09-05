@@ -1,5 +1,5 @@
 ## લેશન - ૨૩.૨ : પેજ લેઆઉટ ટેબ : MS Word
-![image](/gujjuskills/images/practical-23.2.png)
+![image](/gujjuskills/images/lesson-23.2.png)
 | Page layout tab | ઉપયોગ |
 |:---:|---|
 | Themes | દસ્તાવેજ માટે તૈયાર ડિઝાઇન, રંગ અને ફોન્ટની થીમ પસંદ કરવા માટે ઉપયોગ થાય છે. |
