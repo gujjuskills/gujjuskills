@@ -1,5 +1,5 @@
 # લેશન - ૨૨.૨ : ફાઇલ ટેબ: MS-WORD
-![image](/gujjuskills/images/practical-22.2.png)
+![image](/gujjuskills/images/lesson-22.2.png)
 | File tab | ઉપયોગ |
 |---|---|
 | **Save** | વર્તમાન ડોક્યુમેન્ટને સેવ કરવા માટે ઉપયોગ થાય છે. |
