@@ -1,5 +1,5 @@
 # લેશન - ૩૦.૧ : સ્લાઇડ શો ટેબ : MS-POWERPOINT
-![image](/gujjuskills/images/practical-30.1.png)
+![image](/gujjuskills/images/lesson-30.1.png)
 | Slide Show Tab | ઉપયોગ |
 |---|---|
 | From Beginning | શરૂઆતની સ્લાઇડથી Slide Show શરૂ કરવા માટે ઉપયોગ થાય છે. |
