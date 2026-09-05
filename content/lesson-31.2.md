@@ -1,5 +1,5 @@
 # લેશન - ૩૧.૨ : ટ્રાન્સીશન ટેબ : MS-POWERPOINT
-![image](/gujjuskills/images/practical-31.2.png)
+![image](/gujjuskills/images/lesson-31.2.png)
 |Transition Tab | ઉપયોગ |
 |---|---|
 | Preview | પસંદ કરેલ ટ્રાન્ઝિશનનું પૂર્વાવલોકન જોવા માટે |
