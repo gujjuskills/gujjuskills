@@ -1,5 +1,5 @@
 # લેશન - ૨૪.૩ : વ્યૂ ટેબ : MS-WORD
-
+![image](/gujjuskills/images/practical-24.3.png)
 | View Tab | ઉપયોગ |
 |:---:|---|
 | Print Layout | દસ્તાવેજને પ્રિન્ટ થયા પછી જે રીતે દેખાશે તે રીતે જોવા માટે. |
