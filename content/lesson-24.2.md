@@ -1,4 +1,5 @@
 # લેશન - ૨૪.૨ : રિવ્યૂ ટેબ: MS-WORD
+![image](/gujjuskills/images/practical-24.2.png)
 | Review Tab | ઉપયોગ |
 |:---:|---|
 | Spelling & Grammar | દસ્તાવેજમાં જોડણી અને વ્યાકરણની ભૂલો તપાસવા માટે ઉપયોગ થાય છે. |
