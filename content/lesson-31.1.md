@@ -1,5 +1,5 @@
 # લેશન - ૩૧.૧ : એનિમેશન ટેબ : MS PowerPoint
-
+![image](/gujjuskills/images/practical-31.1.png)
 | Animation Tab | ઉપયોગ |
 |---|---|
 | **Animation Tab** | PowerPoint માં ઑબ્જેક્ટ, ટેક્સ્ટ અથવા ચિત્ર પર એનિમેશન લાગુ કરવા માટે Animation Tab નો ઉપયોગ થાય છે. |
