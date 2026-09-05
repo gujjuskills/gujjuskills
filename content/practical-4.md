@@ -1,5 +1,5 @@
 # પ્રેકટિકલ-૪ : અગ્નિશામક ઉપકરણનો ઉપયોગ
-
+![image](/gujjuskills/images/practical-4.webp)
 
 ## અગ્નિશામક ઉપકરણ ઉપયોગ માટેના સ્ટેપ જણાવો.  
 ## PULL → AIM → SQUEEZE → SWEEP
