@@ -1,5 +1,5 @@
 ## લેશન - ૨૩.૩ : રેફરન્સ ટેબ: MS Word
-
+![image](/gujjuskills/images/practical-23.3.png)
 | References Tab | ઉપયોગ |
 |:---:|---|
 | Table of Contents | દસ્તાવેજમાં વિષય સૂચિ તૈયાર કરવા માટે ઉપયોગ થાય છે. |
