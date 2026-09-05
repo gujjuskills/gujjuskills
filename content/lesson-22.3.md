@@ -1,5 +1,5 @@
 # લેશન - ૨૨.૩ : હોમ ટેબ : MS Word
-![image](/gujjuskills/images/practical-22.3.png)
+![image](/gujjuskills/images/lesson-22.3.png)
 | Home tab | ઉપયોગ |
 |:---:|:---|
 | Cut – Paste | પસંદ કરેલા લખાણને એક જગ્યાએથી દૂર કરીને બીજી જગ્યાએ મૂકવા માટે ઉપયોગ થાય છે. |
