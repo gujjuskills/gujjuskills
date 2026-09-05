@@ -1,5 +1,5 @@
 # લેશન - ૨૩.૧ : ઇન્સર્ટ ટેબ : MS Word
-![image](/gujjuskills/images/practical-23.1.png)
+![image](/gujjuskills/images/lesson-23.1.png)
 | Insert Tab | ઉપયોગ |
 |:---:|---|
 | Cover Page | તૈયાર કરેલું કવર પેજ ઉમેરવા માટે ઉપયોગ થાય છે. |
