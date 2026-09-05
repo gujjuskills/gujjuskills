@@ -1,5 +1,5 @@
 # લેશન - ૩૦.૨ : ડિઝાઇન ટેબ : MS-POWERPOINT
-![image](/gujjuskills/images/practical-30.2.png)
+![image](/gujjuskills/images/lesson-30.2.png)
 | ડિઝાઇન ટેબ | ગુજરાતી માહિતી |
 |---|---|
 | Page Setup | સ્લાઇડનું કદ, પહોળાઈ અને ઊંચાઈ નક્કી કરવા માટે ઉપયોગ થાય છે. |
