@@ -84,6 +84,7 @@ const Header = () => {
                           >
                             <Link
                               href={child.url}
+                              onClick={() => setShowMenu(false)}
                               className={`nav-dropdown-link block ${
                                 router.asPath === child.url && "active"
                               }`}
