@@ -22,7 +22,7 @@
 | RTRIM | String ની જમણી બાજુના વધારાના Space દૂર કરે છે. |
 | STRCMP | બે String ની સરખામણી કરે છે. |
 | TRIM | String ની શરૂઆત અને અંતના વધારાના Space દૂર કરે છે. |
-| UPPER | String ના બધા અક્ષરોને મોટા અક્ષરોમાં ફેરવે છે. |
+| UPPER | String ના બધા અક્ષરોને મોટા અક્ષરોમાં ફેરવે છે.|
 
 ## MySQL Numeric Functions
 
