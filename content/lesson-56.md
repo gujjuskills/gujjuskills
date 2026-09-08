@@ -5,8 +5,8 @@
 | વિભાગ | માહિતી |
 |---|---|
 | **Syntax** | `SELECT column_name FROM table_name WHERE column_name operator (SELECT column_name FROM table_name WHERE condition);` |
-| **Example : 1** | `SELECT * FROM Employee WHERE Salary > (SELECT AVG(Salary) FROM Employee);`<br><br>**અર્થ:** જે કર્મચારીઓનો પગાર સરેરાશ પગાર કરતાં વધારે છે તેમની માહિતી મેળવશે. |
-| **Example : 2** | `SELECT * FROM Employee WHERE Department_ID IN (SELECT Department_ID FROM Department WHERE Location = 'Ahmedabad');`<br><br>**અર્થ:** અમદાવાદમાં આવેલા વિભાગમાં કામ કરતા કર્મચારીઓની માહિતી મેળવશે. |
+| **Example : 1** | `SELECT * FROM Employee WHERE Salary > (SELECT AVG(Salary) FROM Employee); **અર્થ:** જે કર્મચારીઓનો પગાર સરેરાશ પગાર કરતાં વધારે છે તેમની માહિતી મેળવશે. |
+| **Example : 2** | `SELECT * FROM Employee WHERE Department_ID IN (SELECT Department_ID FROM Department WHERE Location = 'Ahmedabad');**અર્થ:** અમદાવાદમાં આવેલા વિભાગમાં કામ કરતા કર્મચારીઓની માહિતી મેળવશે. |
 ## સબ ક્વેરીઝના ફાયદા 
 1. જટિલ SQL ક્વેરીને સરળ બનાવવામાં મદદ કરે છે.
 2. એક ક્વેરીના પરિણામનો ઉપયોગ બીજી ક્વેરીમાં કરી શકાય છે.
