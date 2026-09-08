@@ -4,7 +4,7 @@
   "version": "1.0.5",
   "private": true,
   "license": "UNLICENSED",
-  "homepage": "https://gujjuskills.github.io/",
+  "homepage": "https://gujjuskills.github.io/gujjuskills/",
   "scripts": {
     "dev": "node lib/jsonGenerator.js && next dev",
     "build": "node lib/jsonGenerator.js && next build",
