@@ -48,7 +48,7 @@ export default function CustomForm() {
           type="submit"
           className="btn btn-primary mt-4 w-full"
         >
-          Sign In
+          Subscribe Me
         </button>
       </form>
 
