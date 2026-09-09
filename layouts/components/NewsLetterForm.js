@@ -1,88 +1,72 @@
+"use client";
+
 import React, { useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 
-function CustomForm({ status, message, onValidated }) {
+export default function CustomForm() {
   const [email, setEmail] = useState("");
+  const [showPopup, setShowPopup] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
     if (!email || !email.includes("@")) {
-      alert("Please enter a valid email address.");
+      alert("Please enter a valid email address");
       return;
     }
 
-    if (onValidated) {
-      onValidated({
-        EMAIL: email,
-      });
-    }
+    // Open email app
+    window.location.href =
+      "mailto:YOUR_EMAIL@gmail.com?subject=New Newsletter Subscriber&body=New subscriber email: " +
+      encodeURIComponent(email);
 
     setEmail("");
+    setShowPopup(true);
+
+    setTimeout(() => {
+      setShowPopup(false);
+    }, 3000);
   };
 
   return (
     <>
-      <form className="py-6" onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="py-6">
         <fieldset className="relative">
           <input
-            className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs dark:bg-darkmode-theme-dark"
             type="email"
-            placeholder="Enter your email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
+            placeholder="Enter your email"
             required
+            className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark"
           />
 
           <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl" />
         </fieldset>
 
         <button
-          className="d-block btn btn-primary mt-4 w-full"
           type="submit"
+          className="btn btn-primary mt-4 w-full"
         >
           Sign In
         </button>
       </form>
 
-      {status === "sending" && (
-        <div className="mt-4 text-primary">
-          Submitting...
-        </div>
-      )}
-
-      {status === "error" && (
-        <div
-          className="mt-4 text-red-700"
-          dangerouslySetInnerHTML={{ __html: message }}
-        />
-      )}
-
-      {status === "success" && (
+      {showPopup && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
-          <div className="w-[90%] max-w-md rounded-2xl bg-white p-8 text-center shadow-xl">
-            <div className="mb-4 text-5xl">✓</div>
+          <div className="rounded-2xl bg-white p-8 text-center shadow-xl">
+            <div className="text-5xl text-green-600">✓</div>
 
-            <h3 className="mb-2 text-2xl font-bold text-green-600">
+            <h2 className="mt-3 text-xl font-bold">
               Subscribed Successfully!
-            </h3>
+            </h2>
 
-            <p className="text-gray-600">
-              Thank you for subscribing to our newsletter.
+            <p className="mt-2 text-gray-600">
+              Thank you for subscribing.
             </p>
-
-            <button
-              type="button"
-              className="btn btn-primary mt-6"
-              onClick={() => window.location.reload()}
-            >
-              OK
-            </button>
           </div>
         </div>
       )}
     </>
   );
 }
-
-export default CustomForm;
