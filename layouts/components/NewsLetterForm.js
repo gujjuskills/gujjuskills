@@ -12,15 +12,11 @@ function CustomForm({ status, message, onValidated }) {
       return;
     }
 
-    if (typeof onValidated !== "function") {
-      console.error("onValidated is not connected.");
-      alert("Newsletter service is not configured.");
-      return;
+    if (onValidated) {
+      onValidated({
+        EMAIL: email,
+      });
     }
-
-    onValidated({
-      EMAIL: email,
-    });
 
     setEmail("");
   };
@@ -32,13 +28,13 @@ function CustomForm({ status, message, onValidated }) {
           <input
             className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs dark:bg-darkmode-theme-dark"
             type="email"
-            placeholder="Type And Hit Enter"
+            placeholder="Enter your email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
           />
 
-          <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75" />
+          <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl" />
         </fieldset>
 
         <button
@@ -51,7 +47,7 @@ function CustomForm({ status, message, onValidated }) {
 
       {status === "sending" && (
         <div className="mt-4 text-primary">
-          Sending...
+          Submitting...
         </div>
       )}
 
@@ -63,8 +59,26 @@ function CustomForm({ status, message, onValidated }) {
       )}
 
       {status === "success" && (
-        <div className="mt-4 text-green-700">
-          Subscribed!
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+          <div className="w-[90%] max-w-md rounded-2xl bg-white p-8 text-center shadow-xl">
+            <div className="mb-4 text-5xl">✓</div>
+
+            <h3 className="mb-2 text-2xl font-bold text-green-600">
+              Subscribed Successfully!
+            </h3>
+
+            <p className="text-gray-600">
+              Thank you for subscribing to our newsletter.
+            </p>
+
+            <button
+              type="button"
+              className="btn btn-primary mt-6"
+              onClick={() => window.location.reload()}
+            >
+              OK
+            </button>
+          </div>
         </div>
       )}
     </>
