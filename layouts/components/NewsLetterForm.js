@@ -40,7 +40,7 @@ function CustomForm() {
           className="d-block btn btn-primary mt-4 w-full"
           type="submit"
         >
-          Sign In
+          Subscribe Me
         </button>
       </form>
 
