@@ -1,46 +1,53 @@
 import React, { useState } from "react";
 import { FaEnvelope } from "react-icons/fa";
 
-function CustomForm({ status, message, onValidated }) {
+function CustomForm() {
   const [email, setEmail] = useState("");
-
-  const resetForm = () => {
-    setEmail("");
-  };
+  const [success, setSuccess] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    email && email.indexOf("@") > -1 && onValidated({ EMAIL: email });
-    resetForm();
+
+    if (!email || !email.includes("@")) {
+      alert("Please enter a valid email address.");
+      return;
+    }
+
+    setSuccess(true);
+    setEmail("");
   };
 
   return (
     <>
-      <form action="#" className="py-6" onSubmit={handleSubmit}>
+      <form className="py-6" onSubmit={handleSubmit}>
         <fieldset className="relative">
           <input
             className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs dark:bg-darkmode-theme-dark"
-            type="text"
+            type="email"
             placeholder="Type And Hit Enter"
-            onChange={(e) => setEmail(e.target.value)}
+            value={email}
+            onChange={(e) => {
+              setEmail(e.target.value);
+              setSuccess(false);
+            }}
+            required
           />
-          <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75" />
+
+          <FaEnvelope className="absolute top-1/2 right-5 -translate-y-1/2 text-xl" />
         </fieldset>
-        <button className="d-block  btn btn-primary mt-4 w-full" type="submit">
+
+        <button
+          className="d-block btn btn-primary mt-4 w-full"
+          type="submit"
+        >
           Sign In
         </button>
       </form>
-      {status === "sending" && (
-        <div className="mt-4 text-primary">sending...</div>
-      )}
-      {status === "error" && (
-        <div
-          className="mt-4 text-red-700"
-          dangerouslySetInnerHTML={{ __html: message }}
-        />
-      )}
-      {status === "success" && (
-        <div className="mt-4 text-green-700">Subscribed !</div>
+
+      {success && (
+        <div className="mt-4 text-center text-green-700">
+          Subscribed successfully!
+        </div>
       )}
     </>
   );
