@@ -1,4 +1,4 @@
-# 🖥️ COPA Practical & Lab Work
+# 💻 COPA Theory Made Simple
 
 [લેશન - ૧ : સલામત કામ કરવાની પધ્ધતિ](../lesson-1/)
 
