@@ -1,0 +1,14 @@
+# પ્રેકટિકલ-૮૮ : ડેટાની ગણતર કરો અને ટ્રાન્સફૉર્મ કરો : MS-EXCEL
+
+| Topic | સામાન્ય સમજ / કાર્ય |
+|---|---|
+| **Perform calculations using AVERAGE(), MIN(), MAX() and SUM()** | **AVERAGE()** નો ઉપયોગ પસંદ કરેલા Cells માં રહેલી સંખ્યાઓની સરેરાશ કાઢવા માટે થાય છે. ઉદાહરણ: `=AVERAGE(B2:B10)`.<br><br>**SUM()** નો ઉપયોગ સંખ્યાઓનો કુલ સરવાળો મેળવવા માટે થાય છે. ઉદાહરણ: `=SUM(B2:B10)`.<br><br>**MIN()** નો ઉપયોગ આપેલી Range માંથી સૌથી નાની સંખ્યા શોધવા માટે થાય છે. ઉદાહરણ: `=MIN(B2:B10)`.<br><br>**MAX()** નો ઉપયોગ આપેલી Range માંથી સૌથી મોટી સંખ્યા શોધવા માટે થાય છે. ઉદાહરણ: `=MAX(B2:B10)`. |
+| | **SUM()** નો ઉપયોગ સંખ્યાઓનો કુલ સરવાળો મેળવવા માટે થાય છે. ઉદાહરણ: `=SUM(B2:B10)`.|
+| | **MIN()** નો ઉપયોગ આપેલી Range માંથી સૌથી નાની સંખ્યા શોધવા માટે થાય છે. ઉદાહરણ: `=MIN(B2:B10)`.|
+| | **MAX()** નો ઉપયોગ આપેલી Range માંથી સૌથી મોટી સંખ્યા શોધવા માટે થાય છે. ઉદાહરણ: `=MAX(B2:B10)`. |
+| **Count cells by using COUNT(), COUNTIF() and COUNTBLANK()** | **COUNT()** નો ઉપયોગ Range માં રહેલા માત્ર Numeric Values ધરાવતા Cells ની સંખ્યા ગણવા માટે થાય છે. ઉદાહરણ: `=COUNT(B2:B10)`.|
+| |**COUNTIF()** નો ઉપયોગ આપેલી Condition અથવા Criteria પ્રમાણે Cells ગણવા માટે થાય છે. ઉદાહરણ: `=COUNTIF(B2:B10,">50")`, જે 50 કરતાં વધુ Value ધરાવતા Cells ગણશે. |
+| |**COUNTBLANK()** નો ઉપયોગ ખાલી Cells ની સંખ્યા જાણવા માટે થાય છે. ઉદાહરણ: `=COUNTBLANK(B2:B10)`.  |
+| **Perform conditional operations by using the IF() function** | **IF()** Function નો ઉપયોગ કોઈ Condition સાચી છે કે ખોટી તે તપાસીને તેના આધારે અલગ Result મેળવવા માટે થાય છે. તેનું સામાન્ય Syntax છે: `=IF(condition, value_if_true, value_if_false)`.  |
+| |ઉદાહરણ: `=IF(B2>=35,"Pass","Fail")`. જો B2 ની Value 35 કે તેથી વધુ હોય તો **Pass** અને 35 કરતાં ઓછી હોય તો **Fail** દર્શાવશે. |
+| |આ Function નો ઉપયોગ Result, Salary, Marks, Attendance અને અન્ય Conditional Calculations માટે કરી શકાય છે. |
