@@ -1,4 +1,4 @@
-# COPA THEORY LIST
+# 💡 COPA Theory Reference Guide
 
 [લેશન - ૧ : સલામત કામ કરવાની પધ્ધતિ](../lesson-1/)
 
