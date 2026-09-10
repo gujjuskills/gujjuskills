@@ -1,19 +1,14 @@
- const isProd = process.env.NODE_ENV === "production";
+ const nextConfig = {
+  output: "export",
 
-const basePath = isProd ? "/gujjuskills" : "";
-
-const nextConfig = {
-  basePath,
-  assetPrefix: basePath,
   images: {
     unoptimized: true,
   },
+
   trailingSlash: true,
+
   eslint: {
     ignoreDuringBuilds: true,
-  },
-  env: {
-    NEXT_PUBLIC_BASE_PATH: basePath,
   },
 };
 
