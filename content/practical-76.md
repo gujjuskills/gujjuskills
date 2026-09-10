@@ -1,0 +1,6 @@
+# પ્રેકટિકલ-૭૬ : ડેટા ઇમ્પોર્ટ કરો : MS-EXCEL
+
+| Topic | સામાન્ય સમજુતી / કાર્ય |
+|---|---|
+| Import data from txt files | **TXT (Text) ફાઇલ**માં રહેલો ડેટા Excel Worksheet માં લાવવા માટે Import Data સુવિધાનો ઉપયોગ કરવામાં આવે છે. સૌપ્રથમ Excel ખોલી **Data** ટેબ પર ક્લિક કરો. ત્યારબાદ **Get Data → From File → From Text/CSV** વિકલ્પ પસંદ કરો. હવે જરૂરી TXT ફાઇલ પસંદ કરીને **Import** કરો. Excel ફાઇલના ડેટાનું Preview દર્શાવશે. અહીં ડેટાને અલગ કરવા માટે યોગ્ય **Delimiter** પસંદ કરવો, જેમ કે **Tab, Semicolon, Comma અથવા Space**. ડેટા યોગ્ય રીતે અલગ થયેલો દેખાય ત્યારબાદ **Load** પર ક્લિક કરો. આ રીતે TXT ફાઇલનો ડેટા Excel Worksheet માં અલગ અલગ Rows અને Columns માં આયાત થાય છે. |
+| Import data from csv files | **CSV (Comma Separated Values) ફાઇલ**માં ડેટા સામાન્ય રીતે Comma દ્વારા અલગ થયેલો હોય છે. CSV ફાઇલનો ડેટા Excel માં લાવવા માટે **Data → Get Data → From File → From Text/CSV** વિકલ્પ પસંદ કરો. ત્યારબાદ CSV ફાઇલ પસંદ કરો. Excel માં ડેટાનું Preview દેખાશે. **Delimiter** તરીકે સામાન્ય રીતે **Comma (,)** પસંદ કરવામાં આવે છે. Preview માં ડેટા યોગ્ય Columns અને Rows માં દેખાય છે કે નહીં તે તપાસો. જરૂરી હોય તો **Data Type Detection** અને અન્ય Import Settings બદલો. ત્યારબાદ **Load** પર ક્લિક કરો. CSV ફાઇલનો સંપૂર્ણ ડેટા Excel Worksheet માં આયાત થઈ જશે. |
