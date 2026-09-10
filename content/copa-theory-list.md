@@ -1,4 +1,4 @@
-# 📚 COPA Theory Made Easy
+# 🎓 COPA Theory Academic Guide
 
 [લેશન - ૧ : સલામત કામ કરવાની પધ્ધતિ](../lesson-1/)
 
