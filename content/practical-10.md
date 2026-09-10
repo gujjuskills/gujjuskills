@@ -1,5 +1,5 @@
 # પ્રેકટિકલ-૧૦ : યુઝર એકાઉન્ટ્સનું સેટિંગ અને મેનેજમેન્ટ
-![image](/gujjuskills/images/account-menu.webp)
+![image](/images/account-menu.webp)
 | પ્રેક્ટિકલ સ્ટેપ | સામાન્ય માહિતી |
 |---|---|
 | Control Panel | Control Panel ખોલવા માટે Windows Search માં **Control Panel** લખીને Open કરો. |
