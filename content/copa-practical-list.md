@@ -1,4 +1,4 @@
-# 🛠️ COPA Practical Made Easy
+# 🎓 COPA Practical Academic Guide
 
 [પ્રેકટિકલ-૧ : કોમ્પ્યુટર સિસ્ટમનો પરિચય](../practical-1/) 
 
