@@ -1,5 +1,5 @@
 # લેશન - ૩૫ : ફોર્મુલા ટેબ : MS-Excel
-![image](/gujjuskills/images/lesson-35.png)
+![image](/images/lesson-35.png)
 | Formula Tab | ઉપયોગ |
 |---|---|
 | Insert Function | વિવિધ ફંક્શન શોધવા અને દાખલ કરવા માટે ઉપયોગ થાય છે. |
