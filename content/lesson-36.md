@@ -1,5 +1,5 @@
 # લેશન - ૩૬ : ડેટા ટેબ : MS-Excel
-![image](/gujjuskills/images/lesson-36.png)
+![image](/images/lesson-36.png)
 | **Data Tab** | ઉપયોગ  |
 |---|---|
 | **From Access** | MS Access માંથી ડેટા મેળવવા માટે. |
