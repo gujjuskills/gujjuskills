@@ -1,6 +1,6 @@
 # Privacy Policy
 Effective Date: 15 July 2025
-At GujjuSkills, accessible from https://gujjuskills.blogspot.com, the privacy of our visitors is extremely important. This Privacy Policy document outlines the types of personal information that is collected and recorded by GujjuSkills and how we use it.
+At GujjuSkills, accessible from https://gujjuskills.com, the privacy of our visitors is extremely important. This Privacy Policy document outlines the types of personal information that is collected and recorded by GujjuSkills and how we use it.
 ## 1. Information We Collect
 We may collect and store limited personal information when you:
 • Subscribe to a newsletter or email updates
