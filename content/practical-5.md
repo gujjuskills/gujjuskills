@@ -1,5 +1,5 @@
 # પ્રેકટિકલ-૫ : CPUના ભાગો અને તેનો ઉપયોગ 
-![image](/gujjuskills/images/computer-parts-with-motherboard.webp)
+![image](/images/computer-parts-with-motherboard.webp)
 | CPUનો પોર્ટ | ઉપયોગ |
 |:---:|---|
 | પાવર કનેક્ટર | વીજ પુરવઠો જોડવા માટે |
