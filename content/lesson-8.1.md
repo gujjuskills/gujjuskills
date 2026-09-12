@@ -2,7 +2,7 @@
 
 ## (1) કીબોર્ડ
 
-![image](/gujjuskills/images/keyboard.png)
+![image](/images/keyboard.png)
 
 | ક્રમ | વિગત | જવાબ |
 |---|---|---|
@@ -14,7 +14,7 @@
 
 ## (2) માઉસ
 ---
-![image](/gujjuskills/images/mouse.png)
+![image](/images/mouse.png)
 ---
 | ક્રમ | વિગત | જવાબ |
 |---|---|---|
