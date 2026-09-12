@@ -1,5 +1,5 @@
 # પ્રેકટિકલ - ૧૭ : Windows Operating System ઇન્સ્ટોલ કરવું
-![image](/gujjuskills/images/practical-17.png)
+![image](/images/practical-17.png)
 
 **બૂટેબલ પેન ડ્રાઇવ દ્વારા Windows OS ઇન્સ્ટોલ કરવાની સ્ટેપ્સ જણાવો.**
 
