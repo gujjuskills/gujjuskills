@@ -1,5 +1,5 @@
 # પ્રેકટિકલ-૬ : ડેસ્કટોપ કોમ્પ્યુટરના ઘટકો જુદા કરવા
-![image](/gujjuskills/images/assemble-of-computer.webp)
+![image](/images/assemble-of-computer.webp)
 | સ્ટેપ | કાર્ય |
 |:---:|:---|
 | 1 | કમ્પ્યુટર બંધ કરી પાવર કેબલ અને અન્ય કેબલને ડિસ્કનેક્ટ કરો. |
