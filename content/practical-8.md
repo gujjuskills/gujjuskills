@@ -1,5 +1,5 @@
 # પ્રેક્ટિકલ – ૮ : પેનડ્રાઇવ અને ફાઇલ તથા ફોલ્ડર સંચાલનની પ્રેક્ટિસ
-![image](/gujjuskills/images/pendrive-navigation.webp)
+![image](/images/pendrive-navigation.webp)
 | પ્રેક્ટિકલ ટોપિક | સામાન્ય માહિતી |
 |---|---|
 | Insert pendrive | પેનડ્રાઇવને કમ્પ્યુટરના USB પોર્ટમાં જોડો. ત્યારબાદ **This PC** ખોલીને પેનડ્રાઇવની ડ્રાઇવ તપાસો. |
