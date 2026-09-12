@@ -1,5 +1,5 @@
 # પ્રેકટિકલ-૧૮ : હાર્ડડિસ્કની ગોઠવણી અને તેના ભાગ કરવા
-![image](/gujjuskills/images/practical-18.png)
+![image](/images/practical-18.png)
 | પ્રેક્ટિકલ ટોપિક | સામાન્ય માહિતી |
 |---|---|
 | **ડિસ્ક મેનેજમેન્ટ ખોલો** | `Win + X` દબાવો અને **Disk Management** પસંદ કરો, અથવા Run માં `diskmgmt.msc` લખી **Enter** કરો. |
