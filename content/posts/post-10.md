@@ -1,7 +1,7 @@
 ---
 title: "My work from home workstation"
 date: 2022-04-04T10:00:00Z
-image: /images/post/post-2.png
+image: /images/post/post-2.webp
 categories: ["internet"]
 featured: false
 draft: false
