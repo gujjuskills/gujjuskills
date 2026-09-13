@@ -1,7 +1,7 @@
 ---
 title: "Why you need to learn PHP"
 date: 2022-04-04T13:00:00Z
-image: /images/post/post-5.png
+image: /images/post/post-5.webp
 categories: ["latestjobs"]
 featured: false
 draft: false
