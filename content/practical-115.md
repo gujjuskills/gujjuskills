@@ -1,3 +1,4 @@
+# પ્રેકટિકલ-૧૧૫ : જોઇન્સ , ગ્રુપ બાય હેવીંગ અને સબ ક્વેરી : MY SQL
 | Topics | Query / Answer |
 |---|---|
 | Inner Join | 1. Customer અને Order ની માહિતી મેળવવા માટે |
