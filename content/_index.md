@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Know About Me
-    link: /about
+    link: /copa-theory-list
     rel: ""
   
 featured_posts:
