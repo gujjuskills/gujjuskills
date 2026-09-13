@@ -1,6 +1,6 @@
 # પ્રેકટિકલ-૨૦ : સોફ્ટવેરને વિન્ડોસમાં ઇન્સ્ટોલ કરવું
 
-![image](/gujjuskills/images/practical-20.png)
+![image](/images/practical-20.png)
 
 ## સોફ્ટવેર ડાઉનલોડ અને ઇન્સ્ટોલ કરવાની પ્રક્રિયા
 
