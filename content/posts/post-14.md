@@ -1,7 +1,7 @@
 ---
 title: "What you need to know about Programming"
 date: 2022-04-04T14:00:00Z
-image: /images/post/post-6.png
+image: /images/post/post-6.webp
 categories: ["robotics", "youtube"]
 featured: false
 draft: false
