@@ -5,11 +5,11 @@ banner:
   image_enable: true
   image: /images/banner-author1.webp
   button:
-   - enable: true
+    enable: true
     label: Know About Me
     link: /about
     rel: ""
-   - enable: true
+    enable: true
     label: Know About Me
     link: /about
     rel: ""
