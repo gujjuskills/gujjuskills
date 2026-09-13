@@ -9,6 +9,11 @@ banner:
     label: Know About Me
     link: /about
     rel: ""
+  button:
+    enable: true
+    label: Know About Me
+    link: /about
+    rel: ""
 
 featured_posts:
   enable: true
