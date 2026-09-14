@@ -9,6 +9,11 @@ banner:
     label: Know About Me
     link: /copa-theory-list
     rel: ""
+  button:
+    enable: true
+    label: Know About Me
+    link: /copa-theory-list
+    rel: ""
   
 featured_posts:
   enable: true
