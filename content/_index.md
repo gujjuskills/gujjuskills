@@ -6,7 +6,7 @@ banner:
   image: /images/banner-author1.webp
   button:
     enable: true
-    label: Know About Me
+    label: COPA Theory
     link: /copa-theory-list
     rel: ""
 
