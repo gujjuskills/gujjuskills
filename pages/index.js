@@ -57,18 +57,17 @@ const Home = ({
                     rel={banner.button.rel}
                   >
                     {banner.button.label}
-                  </Link>
-              )}
-
-              {banner.button.enable && (
-                  <Link
+                </Link>
+                <Link
                     className="btn btn-primary mt-6"
                     href={banner.button.link}
                     rel={banner.button.rel}
                   >
                     {banner.button.label}
                   </Link>
+
               )}
+              
             </div>
             {banner.image_enable && (
                 <div className="col-9 lg:col-6">
