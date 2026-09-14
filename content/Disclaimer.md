@@ -1,5 +1,5 @@
 # Disclaimer
-## Last updated: [15th July 2025]
+## Last updated: [03rd Septmber 2026]
 Welcome to GujjuSkills accessible at https://gujjuskills.com. The information provided on this website is published in good faith and for general informational and educational purposes only.
 
 ### 1. Educational Content
