@@ -1,5 +1,7 @@
 # પ્રેકટિકલ-૧૦૪ : MY SQL ઇન્સ્ટોલ કરવું : MY SQL
 
+![image](/images/practical-104.webp)
+
 | સ્ટેપ | સામાન્ય સમજુતી |
 |---|---|
 | 1 | સૌપ્રથમ MySQL ની અધિકૃત વેબસાઇટ પરથી **MySQL Installer** ડાઉનલોડ કરો. Windows માટે યોગ્ય Installer પસંદ કરો અને **Download** પર ક્લિક કરો. |
