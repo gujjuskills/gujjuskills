@@ -1,6 +1,6 @@
 # પ્રેકટિકલ-૧૧૬ : નેટવર્ક જોડાણો જુઓ
 
-![image](/images/practical-116.webp)
+![image](/images/practical-104.webp)
 
 ## નેટવર્ક કનેક્શન સુધી પહોંચવાના સ્ટેપ્સ
 
