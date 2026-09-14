@@ -62,9 +62,9 @@ const Home = ({
 
           <Link
             className="btn btn-primary mt-6"
-             href="/posts"
+             href="/copa-practical-list"
           >
-              View Posts
+              COPA Practical
     </Link>
   </>
 
