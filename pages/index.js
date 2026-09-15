@@ -115,7 +115,7 @@ const Home = ({
                               {post.frontmatter.image && (
                                 <ImageFallback
                                   className="mr-3 h-[85px] rounded object-cover"
-                                  src={post.frontmatter.image}
+                                  src={post.frontmatter.image.replace(/\.(png|jpg|jpeg|webp)$/i,"-thumb.webp")}
                                   alt={post.frontmatter.title}
                                   width={105}
                                   height={85}
