@@ -15,7 +15,7 @@ JavaScript Animation એટલે JavaScript ની મદદથી વેબ �
 
 ### Syntax :
 
-```javascript
+```text
 setInterval(function(), milliseconds);
 
 <!DOCTYPE html>
@@ -38,3 +38,4 @@ setInterval(function() {
 
 </body>
 </html>
+
