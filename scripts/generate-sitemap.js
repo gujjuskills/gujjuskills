@@ -19,7 +19,7 @@ function getMarkdownFiles(dir) {
 
     if (stat.isDirectory()) {
       files = files.concat(getMarkdownFiles(fullPath));
-    } else if (file.endsWith(".md") || file.endsWith(".mdx")) {
+    } else if (file.endsWith(".md")) {
       files.push(fullPath);
     }
   }
@@ -27,24 +27,29 @@ function getMarkdownFiles(dir) {
   return files;
 }
 
-const markdownFiles = getMarkdownFiles(contentDir);
+const files = getMarkdownFiles(contentDir);
 
 const urls = new Set();
 
 urls.add(`${BASE_URL}/`);
 
-for (const file of markdownFiles) {
+files.forEach((file) => {
   const relativePath = path.relative(contentDir, file);
 
   let urlPath = relativePath
     .replace(/\\/g, "/")
-    .replace(/\.(md|mdx)$/, "")
-    .replace(/\/index$/, "");
+    .replace(/\.md$/, "");
 
-  if (!urlPath) continue;
+  // Ignore special files
+  if (
+    urlPath === "404" ||
+    urlPath === "_index"
+  ) {
+    return;
+  }
 
   urls.add(`${BASE_URL}/${urlPath}/`);
-}
+});
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -67,4 +72,4 @@ fs.writeFileSync(
   "utf8"
 );
 
-console.log(`Sitemap generated with ${urls.size} URLs.`);
+console.log(`Sitemap generated: ${urls.size} URLs`);
