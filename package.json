@@ -5,13 +5,13 @@
   "private": true,
   "license": "UNLICENSED",
   "homepage": "https://gujjuskills.github.io/gujjuskills/",
-  "scripts": {
-    "dev": "node lib/jsonGenerator.js && next dev",
-    "build": "node lib/jsonGenerator.js && next build",
-    "export": "npm run build && next export",
-    "lint": "next lint",
-    "start": "next start"
-  },
+ "scripts": {
+  "dev": "node lib/jsonGenerator.js && node lib/sitemapGenerator.js && next dev",
+  "build": "node lib/jsonGenerator.js && node lib/sitemapGenerator.js && next build",
+  "export": "npm run build && next export",
+  "lint": "next lint",
+  "start": "next start"
+},
   "dependencies": {
     "disqus-react": "^1.1.5",
     "github-slugger": "^2.0.0",
