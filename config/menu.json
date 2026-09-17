@@ -93,6 +93,10 @@
     {
       "name": "Terms & Conditions",
       "url": "/terms-condition"
+    },
+    {
+      "name": "Sitemap",
+      "url": "https://www.gujjuskills.com/sitemap.xml"
     }
   ]
 }
