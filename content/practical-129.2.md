@@ -2,7 +2,7 @@
 
 # Link Button
 
-```html
+``` html
 <!DOCTYPE html>
 <html>
 <head>
