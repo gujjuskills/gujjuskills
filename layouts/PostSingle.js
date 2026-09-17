@@ -2,6 +2,7 @@ import config from "@config/config.json";
 import Base from "@layouts/Baseof";
 import ImageFallback from "@layouts/components/ImageFallback";
 import InnerPagination from "@layouts/components/InnerPagination";
+import GoogleAd from "@layouts/components/GoogleAd";
 import dateFormat from "@lib/utils/dateFormat";
 import { markdownify } from "@lib/utils/textConverter";
 import { DiscussionEmbed } from "disqus-react";
@@ -12,6 +13,7 @@ import { FaRegCalendar, FaUserAlt } from "react-icons/fa";
 import Post from "./partials/Post";
 import Sidebar from "./partials/Sidebar";
 import shortcodes from "./shortcodes/all";
+
 const { disqus } = config;
 const { meta_author } = config.metadata;
 
@@ -25,12 +27,16 @@ const PostSingle = ({
   relatedPosts,
 }) => {
   let { description, title, date, image, categories } = frontmatter;
+
   description = description ? description : content.slice(0, 120);
 
   const { theme } = useTheme();
+
   const author = frontmatter.author ? frontmatter.author : meta_author;
+
   // Local copy so we don't modify global config.
   let disqusConfig = config.disqus.settings;
+
   disqusConfig.identifier = frontmatter.disqusId
     ? frontmatter.disqusId
     : config.settings.blog_folder + "/" + slug;
@@ -52,6 +58,7 @@ const PostSingle = ({
                       className="rounded-lg"
                     />
                   )}
+
                   <ul className="absolute top-3 left-2 flex flex-wrap items-center">
                     {categories.map((tag, index) => (
                       <li
@@ -68,12 +75,15 @@ const PostSingle = ({
                     ))}
                   </ul>
                 </div>
+
                 {config.settings.InnerPaginationOptions.enableTop && (
                   <div className="mt-4">
                     <InnerPagination posts={posts} date={date} />
                   </div>
                 )}
+
                 {markdownify(title, "h1", "lg:text-[42px] mt-4")}
+
                 <ul className="flex items-center space-x-4">
                   <li>
                     <Link
@@ -84,18 +94,31 @@ const PostSingle = ({
                       {author}
                     </Link>
                   </li>
+
                   <li className="inline-flex items-center font-secondary text-xs leading-3">
                     <FaRegCalendar className="mr-1.5" />
                     {dateFormat(date)}
                   </li>
                 </ul>
+
+                {/* Google AdSense - Top */}
+                <GoogleAd />
+
                 <div className="content mb-16">
-                  <MDXRemote {...mdxContent} components={shortcodes} />
+                  <MDXRemote
+                    {...mdxContent}
+                    components={shortcodes}
+                  />
                 </div>
+
+                {/* Google AdSense - Bottom */}
+                <GoogleAd />
+
                 {config.settings.InnerPaginationOptions.enableBottom && (
                   <InnerPagination posts={posts} date={date} />
                 )}
               </article>
+
               <div className="mt-16">
                 {disqus.enable && (
                   <DiscussionEmbed
@@ -106,6 +129,7 @@ const PostSingle = ({
                 )}
               </div>
             </div>
+
             <Sidebar
               posts={posts.filter((post) => post.slug !== slug)}
               categories={allCategories}
@@ -116,9 +140,13 @@ const PostSingle = ({
         {/* Related posts */}
         <div className="container mt-20">
           <h2 className="section-title">Related Posts</h2>
+
           <div className="row mt-16">
             {relatedPosts.slice(0, 3).map((post, index) => (
-              <div key={"post-" + index} className="mb-12 lg:col-4">
+              <div
+                key={"post-" + index}
+                className="mb-12 lg:col-4"
+              >
                 <Post post={post} />
               </div>
             ))}
