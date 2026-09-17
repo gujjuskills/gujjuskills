@@ -1,3 +1,4 @@
+import GoogleAd from "@layouts/components/GoogleAd";
 import config from "@config/config.json";
 import social from "@config/social.json";
 import ImageFallback from "@layouts/components/ImageFallback";
@@ -32,6 +33,7 @@ const Sidebar = ({ posts, categories, className }) => {
             fill={true}
             alt="bg-map"
           />
+          <GoogleAd />
           <Logo />
           {markdownify(about.content, "p", "mt-8")}
           <Social
