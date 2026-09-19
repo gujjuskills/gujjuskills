@@ -17,7 +17,7 @@ const GoogleAd = () => {
         width: "100%",
       }}
       data-ad-client="ca-pub-8383584974642753"
-      data-ad-slot="9550848037"
+      data-ad-slot="7233385467"
       data-ad-format="auto"
       data-full-width-responsive="true"
     />
