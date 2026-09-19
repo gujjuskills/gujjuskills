@@ -148,7 +148,7 @@ const Home = ({
                <GoogleAd slot="7233385467" />
 
                  
-             )}
+           
 
               {/* Recent Posts */}
               {recent_posts.enable && (
