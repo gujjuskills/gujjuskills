@@ -102,7 +102,7 @@ const PostSingle = ({
                 </ul>
 
                 {/* Google AdSense - Top */}
-                <GoogleAd />
+                <GoogleAd slot="7233385467" />
 
                 <div className="content mb-16">
                   <MDXRemote
@@ -112,7 +112,7 @@ const PostSingle = ({
                 </div>
 
                 {/* Google AdSense - Bottom */}
-                <GoogleAd />
+                  <GoogleAd slot="7233385467" />
 
                 {config.settings.InnerPaginationOptions.enableBottom && (
                   <InnerPagination posts={posts} date={date} />
