@@ -146,18 +146,9 @@ const Home = ({
 
               {/* Google AdSense */}
                <GoogleAd slot="7233385467" />
-              {/* Promotion */}
-              {promotion.enable && (
-                <Link href={promotion.link} className="section block pt-0">
-                  <ImageFallback
-                    className="h-full w-full"
-                    height="115"
-                    width="800"
-                    src={promotion.image}
-                    alt="promotion"
-                  />
-                </Link>
-              )}
+
+                 
+             )}
 
               {/* Recent Posts */}
               {recent_posts.enable && (
