@@ -145,7 +145,7 @@ const Home = ({
               )}
 
               {/* Google AdSense */}
-               <GoogleAd />
+               <GoogleAd slot="7233385467" />
               {/* Promotion */}
               {promotion.enable && (
                 <Link href={promotion.link} className="section block pt-0">
