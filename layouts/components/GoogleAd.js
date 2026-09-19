@@ -7,16 +7,16 @@ const GoogleAd = () => {
         className="adsbygoogle"
         style={{
           display: "block",
-          minHeight: "250px",
+          width: "100%",
         }}
         data-ad-client="ca-pub-8383584974642753"
-        data-ad-slot="4191866766"
+        data-ad-slot="9550848037"
         data-ad-format="auto"
         data-full-width-responsive="true"
       />
 
       <Script
-        id="adsense-script"
+        id="google-adsense"
         strategy="afterInteractive"
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8383584974642753"
         crossOrigin="anonymous"
