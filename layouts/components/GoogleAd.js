@@ -1,28 +1,34 @@
-import { useEffect } from "react";
+import Script from "next/script";
 
 const GoogleAd = () => {
-  useEffect(() => {
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (e) {
-      console.error("AdSense error:", e);
-    }
-  }, []);
-
   return (
-    <div className="my-6 w-full overflow-hidden">
+    <>
       <ins
         className="adsbygoogle"
         style={{
           display: "block",
-          width: "100%",
+          minHeight: "250px",
         }}
         data-ad-client="ca-pub-8383584974642753"
         data-ad-slot="4191866766"
         data-ad-format="auto"
         data-full-width-responsive="true"
       />
-    </div>
+
+      <Script
+        id="adsense-script"
+        strategy="afterInteractive"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8383584974642753"
+        crossOrigin="anonymous"
+        onLoad={() => {
+          try {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+          } catch (error) {
+            console.error("AdSense error:", error);
+          }
+        }}
+      />
+    </>
   );
 };
 
