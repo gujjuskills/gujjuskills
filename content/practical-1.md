@@ -2,10 +2,10 @@
 
 ### કાર્ય : 1 - કમ્પ્યુટરના ભાગો ઓળખાવો.
 
-![image](/images/computer-parts.jpg)
+![image](/images/practical-1.1.webp)
 
 ---
-![image](/images/computer-start-steps.jpg)
+![image](/images/practical-1.2.webp)
 ### કાર્ય : 2 - કમ્પ્યુટરને શરૂ કરવાની સ્ટેપ્સ જણાવો.
 
 | સ્ટેપ | પ્રક્રિયા |
