@@ -67,7 +67,7 @@ At this point, do not sign in with a Microsoft account.
 
 On the network connection screen, press:
 
-```text Shift + **F10** ```
+ Shift + **F10**
 
 On some laptops, you may need to press:
 
