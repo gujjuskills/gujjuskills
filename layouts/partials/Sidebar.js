@@ -27,13 +27,14 @@ const Sidebar = ({ posts, categories, className }) => {
     <aside className={`${className} px-0 lg:px-6 lg:col-4`}>
       {about.enable && (
         <div className="relative rounded border border-border p-6 text-center dark:border-darkmode-border">
+          <GoogleAd />
           <ImageFallback
             className="-z-[1]"
             src="/images/map.svg"
             fill={true}
             alt="bg-map"
           />
-          <GoogleAd />
+          
           <Logo />
           {markdownify(about.content, "p", "mt-8")}
           <Social
