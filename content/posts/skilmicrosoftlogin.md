@@ -1,7 +1,7 @@
 ---
 title: "How to Skip Microsoft Account Login During Windows 11 Installation"
 date: 2026-09-23T01:00:00Z
-image: /images/post/post-1.webp
+image: /images/post/skipmicrosoftlogin.webp
 categories: ["Computer"]
 featured: true
 draft: false
