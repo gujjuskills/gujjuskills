@@ -7,9 +7,6 @@ featured: true
 draft: false
 ---
 
-
-# How to Skip Microsoft Account Login During Windows 11 Installation
-
 Windows 11 may ask you to connect to the internet and sign in with a Microsoft account during the first time setup.
 
 If you prefer to create a **local account**, you can use the offline setup options available on your Windows 11 installation build.
