@@ -1,4 +1,3 @@
-```jsx
 import Logo from "@components/Logo";
 import menu from "@config/menu.json";
 import socical from "@config/social.json";
