@@ -67,23 +67,23 @@ At this point, do not sign in with a Microsoft account.
 
 On the network connection screen, press:
 
- Shift + **F10**
+ **Shift + F10**
 
 On some laptops, you may need to press:
 
-```text Shift + Fn + **F10** ```
+ **Shift + Fn + F10**
 
 A black **Command Prompt** window should appear.
 
 You may see something similar to:
 
-```text X:\Sources> ```
+**X:\Sources>**
 
 ## Step 6: Enter the Bypass Command
 
 Type the following command:
 
-```cmd **OOBE**\**BYPASSNRO** ```
+ **OOBE\BYPASSNRO**
 
 Make sure the spelling and backslash are correct.
 
