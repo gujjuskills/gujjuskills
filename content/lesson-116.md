@@ -9,14 +9,14 @@
 
 ### Syntax
 
-```python
+```
 if condition:
     statement
 ```
 
 ### Example
 
-```python
+```
 age = 18
 
 if age >= 18:
@@ -25,7 +25,7 @@ if age >= 18:
 
 ### Output
 
-```text
+```
 You are eligible to vote.
 ```
 
@@ -42,7 +42,7 @@ You are eligible to vote.
 
 ### Syntax
 
-```python
+``
 if condition:
     statement1
 else:
@@ -51,7 +51,7 @@ else:
 
 ### Example
 
-```python
+```
 marks = 35
 
 if marks >= 33:
@@ -62,7 +62,7 @@ else:
 
 ### Output
 
-```text
+```
 Pass
 ```
 
@@ -79,7 +79,7 @@ Pass
 
 ### Syntax
 
-```python
+```
 if condition1:
     if condition2:
         statement
@@ -87,7 +87,7 @@ if condition1:
 
 ### Example
 
-```python
+```
 age = 20
 citizen = True
 
@@ -98,7 +98,7 @@ if age >= 18:
 
 ### Output
 
-```text
+```
 You are eligible to vote.
 ```
 
