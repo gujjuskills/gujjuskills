@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
 import Script from "next/script";
+import BackToTop from "components/BackToTop";
 
 const App = ({ Component, pageProps }) => {
   // default theme setup
