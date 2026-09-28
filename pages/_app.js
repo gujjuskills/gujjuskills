@@ -67,6 +67,7 @@ const App = ({ Component, pageProps }) => {
        </Head>
       <ThemeProvider attribute="class" defaultTheme={default_theme}>
         <Component {...pageProps} />
+        <BackToTop />
       </ThemeProvider>
     </JsonContext>
   );
