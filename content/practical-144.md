@@ -4,7 +4,7 @@
 
 | ક્રમ | Amazon.in | Flipkart | OLX |
 |---|---|---|---|
-| ![image](/images/practical-140.1.webp) | ![image](/images/practical-140.2.webp) | ![image](/images/practical-140.3.webp) |
+|---| ![image](/images/practical-140.1.webp) | ![image](/images/practical-140.2.webp) | ![image](/images/practical-140.3.webp) |
 | 1 | Amazon Seller Central વેબસાઇટ ખોલો. | Flipkart Seller Hub ખોલો. | OLX એપ અથવા વેબસાઇટ ખોલો. |
 | 2 | Seller Account માટે Sign Up કરો. | Seller Account માટે Registration કરો. | Login અથવા Sign Up કરો. |
 | 3 | મોબાઇલ નંબર, ઈમેલ અને જરૂરી KYC વિગતો આપો. | મોબાઇલ નંબર, ઈમેલ અને જરૂરી વ્યવસાયિક વિગતો આપો. | Sell અથવા Post Your Ad વિકલ્પ પસંદ કરો. |
