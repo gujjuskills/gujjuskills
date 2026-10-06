@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 
 const websites = {
   website1: {
-    name: "HTML EDITOT",
+    name: "HTML EDITOR",
     url: "https://onecompiler.com/html",
   },
 
