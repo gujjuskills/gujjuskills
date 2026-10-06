@@ -65,9 +65,13 @@
         {
           "name": "Categories",
           "url": "/categories"
+        },
+        {
+          "name": "HTML EDITOR",
+          "url": "/website-viewer?site=website1"
         }
       ]
-    }
+    },
   ],
   "footer": [
     {
