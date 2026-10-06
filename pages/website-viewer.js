@@ -17,6 +17,10 @@ const websites = {
     name: "MYSQL EDITOR",
     url: "https://onecompiler.com/mysql",
   },
+  website5: {
+    name: "CBT MOCK TEST",
+    url: "https://iticbt.com/trade/copa/nimi-mock-test",
+  },
 };
 
 export default function WebsiteViewer() {
