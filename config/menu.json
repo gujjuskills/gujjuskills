@@ -66,15 +66,15 @@
       "children": [
         {
           "name": "HTML",
-          "url": "/website-viewer/?site=website1"
+          "url": "/website-viewer/?site=HTML_EDITOR"
         },
         {
           "name": "LINUX",
-          "url": "/website-viewer/?site=website2"
+          "url": "/website-viewer/?site=LINUX_CMD"
         },
         {
           "name": "PYTHON",
-          "url": "/website-viewer/?site=website3"
+          "url": "/website-viewer/?site=PYTHON_EDITOR"
         },
         {
           "name": "Categories",
