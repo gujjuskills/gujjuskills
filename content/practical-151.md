@@ -2,8 +2,6 @@
 
 ![image](/images/practical-151.webp)
 
-## મફત Cloud પર Website Host કરવાની રીત
-
 Cloud Hosting ની મદદથી આપણે પોતાની Website ને Internet પર મફતમાં Host કરી શકીએ છીએ. આ માટે કેટલીક Free Cloud Hosting Services ઉપલબ્ધ છે, જેમ કે GitHub Pages, Netlify અને Vercel.
 
 ### Website Host કરવાના Steps
