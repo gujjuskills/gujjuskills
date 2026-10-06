@@ -1,17 +1,17 @@
 import { useRouter } from "next/router";
 
 const websites = {
-  website1: {
+  HTML_EDITOR: {
     name: "Website 1",
     url: "https://onecompiler.com/html",
   },
 
-  website2: {
+  LINUX_CMD: {
     name: "Website 2",
     url: "https://webterm.app/en/free-play",
   },
 
-  website3: {
+  PYTHON_EDITOR: {
     name: "Website 3",
     url: "https://onecompiler.com/python",
   },
