@@ -20,6 +20,10 @@
         {
           "name": "COPA QUIZ",
           "url": "https://iticbt.com/trade/copa/nimi-mock-test"
+        },
+        {
+          "name": "HTML Editor",
+          "url": "/website-viewer/?site=website1"
         }
       ]
     },
