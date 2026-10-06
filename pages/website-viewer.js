@@ -1,19 +1,23 @@
 import { useRouter } from "next/router";
 
 const websites = {
-  HTML_EDITOR: {
-    name: "Website 1",
+  Website1: {
+    name: "HTML EDITOT",
     url: "https://onecompiler.com/html",
   },
 
-  LINUX_CMD: {
-    name: "Website 2",
+  Website2: {
+    name: "LINUX COMMANDS",
     url: "https://webterm.app/en/free-play",
   },
 
-  PYTHON_EDITOR: {
-    name: "Website 3",
+  Website3: {
+    name: "PYTHON EDITOR",
     url: "https://onecompiler.com/python",
+  },
+  Website4: {
+    name: "MY SQL",
+    url: "https://onecompiler.com/mysql",
   },
 };
 
