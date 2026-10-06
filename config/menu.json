@@ -60,13 +60,21 @@
       ]
     },
     {
-      "name": "Pages",
+      "name": "Learn",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "HTML Editor",
+          "name": "HTML",
           "url": "/website-viewer/?site=website1"
+        },
+        {
+          "name": "LINUX",
+          "url": "/website-viewer/?site=website2"
+        },
+        {
+          "name": "PYTHON",
+          "url": "/website-viewer/?site=website3"
         },
         {
           "name": "Categories",
