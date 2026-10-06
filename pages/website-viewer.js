@@ -5,18 +5,16 @@ const websites = {
     name: "HTML EDITOR",
     url: "https://onecompiler.com/html",
   },
-
   website2: {
     name: "LINUX COMMANDS",
     url: "https://webterm.app/en/free-play",
   },
-
   website3: {
     name: "PYTHON EDITOR",
     url: "https://onecompiler.com/python",
   },
   website4: {
-    name: "MY SQL",
+    name: "MYSQL EDITOR",
     url: "https://onecompiler.com/mysql",
   },
 };
