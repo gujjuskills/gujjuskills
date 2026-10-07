@@ -20,7 +20,7 @@ const websites = {
   website5: {
     name: "CBT MOCK TEST",
     url: "https://iticbt.com/trade/copa/nimi-mock-test",
-  },
+  }
 };
 
 export default function WebsiteViewer() {
