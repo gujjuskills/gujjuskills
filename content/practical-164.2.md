@@ -1,6 +1,6 @@
 # પ્રેકટિકલ-૧૬૪.૨ : PY : 4 - ડોલર થી રૂપિયામાં ચલણ રૂપાંતરિત કરો
 
-
+``` 
 # Enter amount in US Dollars
 
 usd = float(input("Enter amount in US Dollars (USD): "))
@@ -36,3 +36,4 @@ US Dollars (USD) : $ 100.00
 Exchange Rate     : 86.25
 
 Indian Rupees     : ₹ 8625.00
+```
