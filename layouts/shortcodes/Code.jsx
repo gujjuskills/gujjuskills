@@ -1,9 +1,24 @@
 import SyntaxHighlighter from "react-syntax-highlighter";
-import { a11yDark } from "react-syntax-highlighter/dist/cjs/styles/hljs";
 
 const HighlightedCode = ({ children, language }) => {
   return (
-    <SyntaxHighlighter language={language} style={a11yDark}>
+    <SyntaxHighlighter
+      language={language}
+      customStyle={{
+        background: "#ffffff",
+        color: "#000000",
+        padding: "16px",
+        border: "1px solid #dddddd",
+        borderRadius: "8px",
+        fontSize: "14px",
+      }}
+      codeTagProps={{
+        style: {
+          color: "#000000",
+          background: "transparent",
+        },
+      }}
+    >
       {children}
     </SyntaxHighlighter>
   );
