@@ -21,7 +21,7 @@ If you want to **install Windows 11 without signing in with a Microsoft account*
 4. A Command Prompt window will open.
 5. Type the following command:
 
-```cmd
+```
 OOBE\BYPASSNRO
 ```
 6. Press Enter.
@@ -32,8 +32,9 @@ OOBE\BYPASSNRO
 11. Create your local Windows username and password.
 If OOBE\BYPASSNRO Doesn't Work
 On newer Windows 11 builds, Microsoft has been removing or disabling some older setup bypass methods.
+
 In that case, try:
 
 start ms-cxh:localonly
 
-f it works on your Windows 11 build, it should open the local account creation screen.
+if it works on your Windows 11 build, it should open the local account creation screen.
