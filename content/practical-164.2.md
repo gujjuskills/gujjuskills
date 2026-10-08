@@ -15,7 +15,7 @@ rupees = usd * rate
 
 #### Display result
 
-print("\n--- Currency Converter ---")
+print("\n Currency Converter")
 
 print(f"US Dollars (USD) : $ {usd:.2f}")
 
@@ -29,7 +29,7 @@ Enter amount in US Dollars (USD): 100
 
 Enter current USD to INR exchange rate: 86.25
 
---- Currency Converter ---
+Currency Converter
 
 US Dollars (USD) : $ 100.00
 
