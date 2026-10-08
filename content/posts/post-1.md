@@ -5,7 +5,7 @@ image: /images/post/skipmicrosoftlogin.webp
 categories: ["Computer"]
 featured: true
 draft: false
-
+---
 # How to Skip Microsoft Account Login During Windows 11 Installation
 
 If you want to **install Windows 11 without signing in with a Microsoft account**, you can create a **local account** during setup.
