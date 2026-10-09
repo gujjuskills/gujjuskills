@@ -14,7 +14,7 @@ numbers = [n1, n2, n3, n4, n5]
 print("Numbers Entered:", numbers)
 print("Sum =", sum(numbers))
 ```
-# Output
+### Output
 ```
 Enter number 1: 10
 Enter number 2: 20
