@@ -23,7 +23,7 @@ elif choice == 4:
 else:
     print("Invalid choice")
 ```
-Output :
+### Output :
 ```
 Enter first number: 10
 Enter second number: 2
