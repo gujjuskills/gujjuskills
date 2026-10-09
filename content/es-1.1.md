@@ -1,4 +1,4 @@
-# 1. Skills That Shape Your Future
+# ES-1.1 : તમારા ભવિષ્યને આકાર આપતી કુશળતા
 ## What it means to be skilled today?
 
 ### 1.1 પરિચય
@@ -52,5 +52,3 @@
 2. Employability Skills ના ચાર ઉદાહરણ આપો.
 3. Technical Skills અને Employability Skills વચ્ચેનો તફાવત લખો.
 4. કાર્યસ્થળે Communication અને Time Management શા માટે જરૂરી છે?
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3 — “Skills That Shape Your Future / What it means to be skilled today?”
