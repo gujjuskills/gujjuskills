@@ -1,4 +1,4 @@
-# 2. Understanding the World of Work
+# ES-2.2 : કાર્યની દુનિયાને સમજવી
 
 ## 2.1 Job અને Career વચ્ચેનો તફાવત
 **Job (નોકરી/કામ):** આવક મેળવવા માટે કરવામાં આવતું ચોક્કસ કામ અથવા પદ.
@@ -50,5 +50,3 @@
 3. Formal Employment અને Self-Employment વચ્ચેનો તફાવત સમજાવો.
 4. Apprenticeship શું છે?
 5. Gig Work અને Freelancing કેવી રીતે અલગ હોઈ શકે છે?
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3 — “Understanding the World of Work”.
