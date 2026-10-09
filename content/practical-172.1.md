@@ -9,11 +9,14 @@ count = len(words)
 print("\n----- Word Counter -----")
 print("Sentence :", sentence)
 print("Number of Words :", count)
-
-Output :
+```
+### Output :
 Enter a sentence: This is a Table.
 
 ----- Word Counter -----
+
 Sentence : This is a Table.
+
 Number of Words : 4
+
 ```
