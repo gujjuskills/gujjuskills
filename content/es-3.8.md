@@ -1,4 +1,4 @@
-# 8. Mobile Apps & Internet of Things (IoT)
+# ES-3.8 : મોબાઈલ એપ્સ અને ઈન્ટરનેટ ઓફ થિંગ્સ (IoT)
 
 ## 8.1 Mobile Apps
 Mobile Apps એટલે Smartphone અથવા Tablet પર ચાલતી એપ્લિકેશન્સ. તેનો ઉપયોગ સંવાદ, અભ્યાસ, નાણાકીય વ્યવહાર, નકશા, દસ્તાવેજો અને કામના આયોજન માટે થઈ શકે છે.
@@ -37,5 +37,3 @@ App ઇન્સ્ટોલ કરતાં પહેલાં તેની જ
 3. IoT ની વ્યાખ્યા આપો.
 4. IoT ના બે ઉદાહરણ અને બે લાભ લખો.
 5. App Permissions તપાસવી શા માટે જરૂરી છે?
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Mobile Apps & Internet of Things”.
