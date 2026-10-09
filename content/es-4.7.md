@@ -45,5 +45,3 @@ AI વાપરતાં પહેલાં તપાસો:
 2. AI સંબંધિત ચાર Ethical Challenges લખો.
 3. Privacy અને Bias ના અર્થ સમજાવો.
 4. AI નો જવાબદાર ઉપયોગ કરવા માટેના પાંચ નિયમો લખો.
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 5 — “Using AI Responsibly”.
