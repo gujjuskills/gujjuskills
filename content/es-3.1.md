@@ -1,4 +1,4 @@
-# 1. Introduction to Digital Literacy & Computer Basics
+# ES-3.1 : ડિજિટલ સાક્ષરતા અને કોમ્પ્યુટરની મૂળભૂત બાબતો
 
 ## 1.1 Digital Literacy એટલે શું?
 **Digital Literacy** એટલે ડિજિટલ ઉપકરણો અને સાધનોનો યોગ્ય, અસરકારક અને સલામત ઉપયોગ કરવાની ક્ષમતા. તેમાં કમ્પ્યુટર વાપરવું, ફાઇલ ખોલવી, માહિતી શોધવી અને ઑનલાઇન સાવચેતી રાખવી જેવી બાબતો આવે છે.
@@ -45,5 +45,3 @@
 2. Hardware અને Software વચ્ચેનો તફાવત લખો.
 3. Operating System નું કાર્ય શું છે?
 4. File અને Folder નો ઉપયોગ સમજાવો.
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Introduction to Digital Literacy & Computer Basics”.
