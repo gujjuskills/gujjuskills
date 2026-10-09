@@ -1,4 +1,4 @@
-# 🎓 Employability Skills Academic Guide
+# 🎓 Employability Skills for Career Advancement
 
 [ES-1.1 :૧. તમારા ભવિષ્યને આકાર આપતી કુશળતા](../es-1.1)
 
