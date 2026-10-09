@@ -1,4 +1,4 @@
-# પ્રેકટિકલ-૧૭૩.૧ : PY : 21 - પાયથોન પ્રોગ્રામ(self creation)
+# પ્રેકટિકલ-૧૭૩ : PY : 21 - પાયથોન પ્રોગ્રામ(self creation)
 
 # Sum of numbers between two numbers
 ```
@@ -13,11 +13,8 @@ for i in range(start, end + 1):
 print("Sum =", total)
 ```
 ### Output :
-
+```
 Enter first number: 5
-
 Enter second number: 15
-
 Sum = 110
-
 ```
