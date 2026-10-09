@@ -1,4 +1,4 @@
-# 7. Social Media for Work & Life
+# ES-3.7 : કાર્ય અને જીવન માટે સોશિયલ મીડિયા
 
 ## 7.1 Social Media નો અર્થ
 Social Media એવા ઑનલાઇન પ્લેટફોર્મ છે, જ્યાં લોકો માહિતી, વિચારો, ફોટા, વિડિયો અને સંદેશા શેર કરી શકે છે તથા અન્ય લોકો સાથે જોડાઈ શકે છે.
@@ -37,5 +37,3 @@ Social Media એવા ઑનલાઇન પ્લેટફોર્મ છે,
 2. Professional Profile માં કઈ માહિતી ઉપયોગી હોઈ શકે?
 3. Social Media પર જવાબદાર વર્તનના ચાર નિયમ લખો.
 4. Privacy Settings શા માટે તપાસવી જોઈએ?
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Social Media for Work & Life”.
