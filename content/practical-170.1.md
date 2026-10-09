@@ -1,8 +1,8 @@
 # પ્રેકટિકલ-૧૭૦.૧ : PY : 15 - ITIના વિદ્યાર્થીઓ માટે ગ્રેડ કેલક્યુલેટર બનાવો
 
-```
-# Grade Calculator for ITI Students
 
+# Grade Calculator for ITI Students
+```
 marks = float(input("Enter Marks (0-100): "))
 
 if marks < 0 or marks > 100:
@@ -24,8 +24,9 @@ else:
     print("\n----- Grade Calculator -----")
     print("Marks :", marks)
     print("Grade :", grade)
-
-Output :
+```
+### Output :
+```
 Enter Marks (0-100): 75
 
 ----- Grade Calculator -----
