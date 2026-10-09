@@ -1,4 +1,4 @@
-# 2. Creating and Editing Documents (MS Word)
+# ES-3.2 : દસ્તાવેજો બનાવવા અને સંપાદિત કરવા (MS Word)
 
 ## 2.1 MS Word નો પરિચય
 MS Word એ Word Processing Software છે. તેનો ઉપયોગ પત્ર, રિપોર્ટ, Resume, અરજી અને અન્ય લખાણવાળા દસ્તાવેજો બનાવવા, સંપાદિત કરવા અને ફોર્મેટ કરવા માટે થાય છે.
@@ -43,5 +43,3 @@ MS Word માં “મારો પરિચય” શીર્ષકથી �
 2. Alignment ના ચાર વિકલ્પ કયા છે?
 3. Bullets અને Numbering ક્યારે વાપરશો?
 4. Print પહેલાં Preview તપાસવું શા માટે ઉપયોગી છે?
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Creating and Editing Documents (MS Word)”.
