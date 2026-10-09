@@ -15,9 +15,9 @@ if num == reverse:
     print(num, "is a Palindrome Number.")
 else:
     print(num, "is not a Palindrome Number.")
-
-Output :
-
+```
+### Output :
+```
 Enter a number: 121
 121 is a Palindrome Number.
 ```
