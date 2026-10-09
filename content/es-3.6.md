@@ -1,4 +1,4 @@
-# 6. Using Online Meeting Tools
+# ES-3.6 : ઓનલાઈન મીટિંગ ટૂલ્સનો ઉપયોગ
 
 ## 6.1 Online Meeting Tools શું છે?
 Online Meeting Tools એવી એપ્લિકેશન્સ અથવા સેવાઓ છે, જેના દ્વારા લોકો Internet મારફતે ઑડિયો, વિડિયો અને સ્ક્રીન શેરિંગથી બેઠક કરી શકે છે. સિલેબસમાં Zoom અને Google Meet ના ઉપયોગનો ઉલ્લેખ છે.
@@ -37,5 +37,3 @@ Online Meeting Tools એવી એપ્લિકેશન્સ અથવા �
 2. Zoom અને Google Meet નો ઉપયોગ શેના માટે થાય છે?
 3. Online Meeting Etiquette ના ચાર નિયમ લખો.
 4. Screen Share કરતાં પહેલાં શું તપાસવું જોઈએ?
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Using Online Meeting Tools”.
