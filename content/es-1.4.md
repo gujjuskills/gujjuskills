@@ -1,5 +1,4 @@
-# 4. Developing a Growth Mindset
-
+# ES-1.4 : વૃદ્ધિની માનસિકતા વિકસાવવી
 ### 4.1 Growth Mindset એટલે શું?
 **Growth Mindset** એટલે પોતાની કુશળતા અને ક્ષમતા પ્રયત્ન, અભ્યાસ, પ્રતિસાદ અને યોગ્ય પદ્ધતિઓ દ્વારા સુધારી શકાય છે એવી માન્યતા. Growth Mindset ધરાવતી વ્યક્તિ ભૂલને શીખવાની તક તરીકે જોઈ શકે છે.
 
@@ -37,5 +36,3 @@
 2. Growth Mindset અને Fixed Mindset વચ્ચેના ત્રણ તફાવત લખો.
 3. Feedback નું મહત્વ સમજાવો.
 4. પોતાની કુશળતા સુધારવા માટેની ચાર રીતો લખો.
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3 — “Developing a Growth Mindset”.
