@@ -8,9 +8,9 @@ d = int(input("Enter number 4: "))
 e = int(input("Enter number 5: "))
 
 print("Largest Number:", max(a, b, c, d, e))
-
-Output :
-
+```
+### Output :
+```
 10
 25
 35
