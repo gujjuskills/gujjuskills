@@ -1,5 +1,4 @@
 # પ્રેકટિકલ-૧૬૯.૨ : PY : 14 - સંખ્યાનો ફેકટોરિયલ (ક્રમગૂણિત) ગણો
-
 ```
 num = int(input("Enter a number: "))
 
@@ -11,8 +10,9 @@ for i in range(1, num + 1):
 print("\n----- Factorial Calculator -----")
 print("Number:", num)
 print("Factorial:", factorial)
-
-**Output :**
+```
+### Output :
+```
 Enter a number: 5
 
 ----- Factorial Calculator -----
