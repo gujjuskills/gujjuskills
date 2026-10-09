@@ -1,4 +1,4 @@
-# 3. Working with Numbers (MS Excel)
+# ES-3.3 : નંબરો સાથે કામ કરવું (MS Excel)
 
 ## 3.1 MS Excel નો પરિચય
 MS Excel એ Spreadsheet Software છે. તેનો ઉપયોગ માહિતી Rows અને Columns માં ગોઠવવા, ગણતરી કરવા, સરળ વિશ્લેષણ કરવા અને માહિતી સ્પષ્ટ રીતે રજૂ કરવા માટે થાય છે.
@@ -44,5 +44,3 @@ Formula વાપરતી વખતે Cell Reference અને દાખલ �
 2. Row, Column અને Cell સમજાવો.
 3. Excel Formula કયા ચિહ્નથી શરૂ થાય છે?
 4. `SUM` અને `AVERAGE` નો ઉપયોગ શું છે?
-
-**સ્રોત સંદર્ભ:** Syllabus PDF, પેજ 4 — “Working with Numbers (MS Excel)”.
