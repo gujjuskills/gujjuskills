@@ -24,8 +24,9 @@ while True:
         print("The number was", number)
         print("You guessed it in", attempts, "attempts.")
         break
-
-Output :
+```
+### Output :
+```
 ----- Guess the Number Game -----
 I have chosen a number between 1 and 10.
 Enter your guess: 5
