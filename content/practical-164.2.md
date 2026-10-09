@@ -22,9 +22,9 @@ print(f"US Dollars (USD) : $ {usd:.2f}")
 print(f"Exchange Rate     : {rate:.2f}")
 
 print(f"Indian Rupees     : ₹ {rupees:.2f}")
-
-# Output
-
+```
+### Output
+```
 Enter amount in US Dollars (USD): 100
 
 Enter current USD to INR exchange rate: 86.25
