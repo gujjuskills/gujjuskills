@@ -1,4 +1,4 @@
-# 5. Critical Thinking — Decision Making and Problem Solving
+# ES-1.5 : જટિલ વિચારસરણી, નિર્ણય લેવો અને સમસ્યાનું નિરાકરણ
 
 ### 5.1 Critical Thinking એટલે શું?
 **Critical Thinking** એટલે કોઈ માહિતી અથવા સમસ્યાને ધ્યાનપૂર્વક તપાસવી, હકીકત અને ધારણા વચ્ચેનો તફાવત સમજવો તથા કારણો અને ઉપલબ્ધ માહિતીના આધારે વિચારવું.
@@ -52,5 +52,3 @@ Critical Thinking ધરાવતી વ્યક્તિ કોઈ વાત�
 3. Fact અને Assumption વચ્ચેનો તફાવત ઉદાહરણ સાથે સમજાવો.
 4. Problem Solving એટલે શું?
 5. Think-Pair-Decide પ્રવૃત્તિના ત્રણ તબક્કા સમજાવો.
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3 — “Critical Thinking – Decision Making and Problem Solving”.
