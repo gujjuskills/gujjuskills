@@ -1,7 +1,6 @@
 # પ્રેકટિકલ-૧૬૭.૧ : PY : 9 - સંખ્યા અવિભાજ્ય છે કે નહીં તે તપાસો
 
 ```
-
 num = int(input("Enter a number: "))
 
 if num < 2:
@@ -18,10 +17,12 @@ else:
         print(num, "is a Prime Number.")
     else:
         print(num, "is Not a Prime Number.")
-
-Output :
+```
+### Output :
+```
 Enter a number: 21
 21 is Not a Prime Number.
 
 Enter a number: 7
 7 is a Prime Number.
+```
