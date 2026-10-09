@@ -1,8 +1,7 @@
 # પ્રેકટિકલ-૧૬૬.૨ : PY : 8 - એક સાદું કેલ્ક્યુલેટર બનાવો
 
-``` 
 # Simple Calculator
-
+```
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
@@ -23,9 +22,9 @@ elif choice == 4:
     print("Result =", a / b)
 else:
     print("Invalid choice")
-
+```
 Output :
-
+```
 Enter first number: 10
 Enter second number: 2
 
@@ -36,5 +35,4 @@ Enter second number: 2
 
 Enter your choice: 4
 Result = 5.0
-
 ```
