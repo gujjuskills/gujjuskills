@@ -16,8 +16,9 @@ if sum == num:
     print(num, "is an Armstrong Number.")
 else:
     print(num, "is not an Armstrong Number.")
-
-Output :
+```
+### Output :
+```
 Enter a number: 153
 153 is an Armstrong Number.
 ```
