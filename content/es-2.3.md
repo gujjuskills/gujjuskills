@@ -1,4 +1,4 @@
-# 3. Finding Suitable Opportunities
+# ES-2.3 : યોગ્ય તકો શોધવી
 
 ## 3.1 Suitable Opportunity એટલે શું?
 Suitable Opportunity એટલે એવી નોકરી, તાલીમ, Apprenticeship અથવા વ્યવસાયની તક, જે વ્યક્તિની રુચિ, કુશળતા, લાયકાત, પરિસ્થિતિ અને લક્ષ્યો સાથે યોગ્ય રીતે મેળ ખાતી હોય.
@@ -55,5 +55,3 @@ Market Scan કરતી વખતે થોડા લોકોના અભિ�
 3. Market Scan શું છે?
 4. Market Scan કરવાની ચાર રીતો લખો.
 5. પોતાના ટ્રેડને નોકરી અથવા સ્વરોજગાર સાથે કેવી રીતે જોડી શકાય?
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3–4 — “Finding Suitable Opportunities”.
