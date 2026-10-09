@@ -7,8 +7,9 @@ print("----- Multiplication Table -----")
 
 for i in range(1, 11):
     print(num, "x", i, "=", num * i)
-
-Output :
+```
+### Output :
+```
 Enter a number: 9
 ----- Multiplication Table -----
 9 x 1 = 9
