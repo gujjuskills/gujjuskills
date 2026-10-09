@@ -1,4 +1,4 @@
-# 1. Understanding Self — My Interests & Abilities
+# ES-2.1 : સ્વ-સમજણ: મારી રુચિઓ અને ક્ષમતાઓ
 
 ## 1.1 પરિચય
 કારકિર્દી પસંદ કરતાં પહેલાં પોતાની રુચિ, શક્તિ, કુશળતા અને સુધારવાની જરૂરિયાતો સમજવી જરૂરી છે. પોતાને ઓળખવાથી યોગ્ય અભ્યાસ, નોકરી, તાલીમ અથવા સ્વરોજગારનો માર્ગ પસંદ કરવામાં મદદ મળે છે.
@@ -54,5 +54,3 @@ Areas for Improvement એટલે એવા ક્ષેત્રો જેમ�
 2. Strengths અને Abilities વચ્ચેનો તફાવત સમજાવો.
 3. Personality Traits અને Values કારકિર્દી પસંદગીને કેવી રીતે અસર કરી શકે?
 4. પોતાની Areas for Improvement ઓળખવાના બે ફાયદા લખો.
-
-**સ્રોત સંદર્ભ:** Employability Skills I syllabus PDF, પેજ 3 — “Understanding Self — My Interests & Abilities”.
