@@ -1,8 +1,7 @@
 # પ્રેકટિકલ-૧૬૬.૧ : PY : 7 - સાદું વ્યાજ ગણવાનું સાધન બનાવો
 
-```
 # Simple Interest Calculator
-
+```
 principal = float(input("Enter Principal Amount (₹): "))
 rate = float(input("Enter Annual Interest Rate (%): "))
 time = float(input("Enter Time (Years): "))
@@ -19,9 +18,9 @@ print(f"Interest Rate    : {rate:.1f}%")
 print(f"Time             : {time:.1f} years")
 print(f"Simple Interest  : ₹{simple_interest:.2f}")
 print(f"Total Amount     : ₹{total_amount:.2f}")
-
-Output:
-
+```
+### Output:
+```
 Enter Principal Amount (₹): 100
 Enter Annual Interest Rate (%): 10
 Enter Time (Years): 2
