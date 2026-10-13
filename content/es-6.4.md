@@ -118,4 +118,3 @@ A learner submits a spreadsheet, but some totals are incorrect.
    - C. Blame someone else
    - D. Ignore every suggestion  
    **Answer: B**
-Aligned to the Module 6 syllabus point “Giving & Receiving Feedback”: understanding feedback, giving constructive feedback politely, practising peer review, and receiving feedback without becoming defensive. Examples and activities are original teaching material.
