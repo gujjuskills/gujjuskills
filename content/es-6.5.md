@@ -148,4 +148,3 @@ Do not force someone to confront a person who may harm them. Follow workplace sa
    - C. Retaliate
    - D. Post personal details online  
    **Answer: B**
-Aligned to the Module 6 syllabus point “Managing Conflicts”: identifying common causes, understanding the role of communication, and practising calm, respectful conflict resolution through workplace simulations such as tool damage and payment delays. Examples and activities are original teaching material.
