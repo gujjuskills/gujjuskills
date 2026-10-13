@@ -1,14 +1,8 @@
-# 7.4 Telephone Skills and Group Discussion on Simple Topics
-**Source:** *Employability Skills – I (120 Hrs.)* syllabus, printed page 6.
-
-## Learning Objectives
-- Telephone callના ત્રણ તબક્કા ઓળખવા.
-- Professional phone callમાં યોગ્ય phrases વાપરવા.
-- Group discussionમાં પોતાના વિચારો સ્પષ્ટ રીતે રજૂ કરવા અને બીજાને સાંભળવા.
+# ES-7.4 : ટેલિફોન કૌશલ્ય અને જૂથ ચર્ચા — કાર્યકારી ફોન કોલ અને જૂથ ચર્ચા
 
 ## Part A: Telephone Skills
 
-### 1. Three Phases of a Telephone Call
+### ❖ Three Phases of a Telephone Call
 સિલેબસ મુજબ ફોન કોલના ત્રણ તબક્કાનો અભ્યાસ કરો:
 
 **Phase 1: Opening**
@@ -29,7 +23,7 @@
 - Thank you. Goodbye.
 - Have a nice day.
 
-### 2. Telephone Etiquette
+### ❖ Telephone Etiquette
 - ફોન ઉઠાવતા સૌજન્યપૂર્ણ અભિવાદન આપો.
 - પોતાનું નામ અને સંસ્થાનું નામ જરૂરી હોય ત્યારે જણાવો.
 - શાંત અને સ્પષ્ટ અવાજમાં બોલો.
@@ -38,7 +32,7 @@
 - માહિતી ખાતરી વગર આપશો નહીં.
 - વાત પૂરી કરતાં પહેલાં મુખ્ય મુદ્દાની પુષ્ટિ કરો.
 
-### 3. Sample Professional Call
+### ❖ Sample Professional Call
 A: Good morning. GujjuSkills Service Desk. This is Amit speaking. How may I help you?  
 B: Good morning. I am calling about my training appointment.  
 A: Certainly. Could you please tell me your appointment date?  
@@ -51,7 +45,7 @@ A: You’re welcome. Goodbye.
 
 ## Part B: Group Discussion on Simple Topics
 
-### 1. Useful Expressions
+### ❖ Useful Expressions
 વાત શરૂ કરવા:
 - I would like to share my opinion.
 - In my opinion, ______.
@@ -73,7 +67,7 @@ A: You’re welcome. Goodbye.
 - To summarise, we discussed ______.
 - Thank you. Those are my points.
 
-### 2. Group Discussion Rules
+### ❖ Group Discussion Rules
 - વિષયથી સંબંધિત વાત કરો.
 - દરેકને બોલવાની તક આપો.
 - બીજાની વાત ધ્યાનથી સાંભળો.
@@ -81,7 +75,7 @@ A: You’re welcome. Goodbye.
 - ટૂંકા, સ્પષ્ટ વાક્યો વાપરો.
 - ઉદાહરણ અથવા કારણથી તમારો મત સમજાવો.
 
-### 3. Practice Topics
+### ❖ Practice Topics
 - Why is workplace safety important?
 - Is teamwork important in a workshop?
 - How can students improve their English?
