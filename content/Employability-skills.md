@@ -48,7 +48,7 @@
 
 [ES-4.7 : AI નો જવાબદારીપૂર્વક ઉપયોગ કરવો](../es-4.7)
 
-[ES-5.1 : What Is Communication & Why It Matters](../es-5.1)
+[ES-5.1 : નાણાં વ્યવસ્થાપનનો પરિચય](../es-5.1)
 
 [ES-5.2 : Active Listening / Practice Effective Communication](../es-5.2)
 
