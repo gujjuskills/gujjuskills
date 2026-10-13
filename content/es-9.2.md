@@ -1,17 +1,9 @@
-# 9.2 Time Management in the Workplace
+# ES-9.2 : કાર્યસ્થળ પર સમયનું વ્યવસ્થાપન
 
-**Source reference:** *Employability Skills I (120 Hrs.)*, printed page 7 (PDF page 5).
-
-## Learning Objectives
-વિદ્યાર્થી:
-- સમય બગાડતા સામાન્ય કારણો ઓળખશે.
-- To-do list અને prioritisation દ્વારા કામ ગોઠવી શકશે.
-- class, shop floor અથવા project માં timelines અને deadlines નું મહત્વ સમજશે.
-
-## 1. What Is Time Management?
+## ❖ What Is Time Management?
 Time management એટલે ઉપલબ્ધ સમયનું આયોજન કરીને યોગ્ય કામ યોગ્ય સમયે પૂર્ણ કરવું. તેનો અર્થ સતત ઉતાવળ કરવો નથી; તેનો અર્થ છે કે કામની જરૂરિયાત, મહત્વ અને સમયમર્યાદા ધ્યાનમાં રાખીને કામ કરવું.
 
-## 2. Common Time-Wasters and How to Avoid Them
+## ❖ Common Time-Wasters and How to Avoid Them
 
 | Time-waster | અસર | ટાળવાની રીત |
 |---|---|---|
@@ -22,7 +14,7 @@ Time management એટલે ઉપલબ્ધ સમયનું આયોજ�
 | સૂચના ન સમજતાં પણ પૂછવું નહીં | ફરીથી કામ કરવું પડે | શરૂઆતમાં સ્પષ્ટતા પૂછો |
 | એકસાથે ઘણાં કામ શરૂ કરવાં | કામ અધૂરાં રહી શકે | પ્રાથમિકતા પ્રમાણે એક પછી એક કામ કરો |
 
-## 3. Planning Tasks with a To-do List
+## ❖ Planning Tasks with a To-do List
 To-do list એટલે પૂર્ણ કરવાનાં કામોની યાદી. યાદીમાં કામ સ્પષ્ટ લખો, પ્રાથમિકતા આપો અને પૂર્ણ થયા પછી tick કરો.
 
 **Example — Workshop day**
@@ -34,7 +26,7 @@ To-do list એટલે પૂર્ણ કરવાનાં કામોની
 
 સમયની યાદી પરિસ્થિતિ પ્રમાણે બદલી શકાય છે. સલામતીના નિયમો માટે ઉતાવળ ન કરવી.
 
-## 4. Prioritisation: What Should Be Done First?
+## ❖ Prioritisation: What Should Be Done First?
 Prioritisation એટલે કયું કામ પહેલાં કરવું તે નક્કી કરવું. નીચેની બાબતો વિચારો:
 - કઈ deadline સૌથી નજીક છે?
 - કયું કામ બીજા કામ માટે જરૂરી છે?
@@ -43,7 +35,7 @@ Prioritisation એટલે કયું કામ પહેલાં કરવ�
 
 **ઉદાહરણ:** પહેલાં મશીનની સલામતી તપાસવી, પછી practical task કરવો, અને અંતે રિપોર્ટ પૂર્ણ કરવો. સલામતી તપાસને ટાળી શકાય નહીં.
 
-## 5. Timelines and Deadlines
+## ❖ Timelines and Deadlines
 - **Timeline:** કામના તબક્કાઓ અને તેમના માટેનો સમયક્રમ.
 - **Deadline:** કામ પૂર્ણ કરવાની નક્કી કરેલી અંતિમ તારીખ અથવા સમય.
 
