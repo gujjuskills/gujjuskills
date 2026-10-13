@@ -1,16 +1,9 @@
-# 8.3 Working in Diverse and Inclusive Teams
-**Source:** *Employability Skills – I (120 Hrs.)* syllabus, printed page 7.
+# ES-8.3 : વિવિધતાપૂર્ણ અને સર્વસમાવેશક ટીમોમાં કાર્ય કરવું
 
-## Learning Objectives
-- Diverse team શું છે તે સમજવું.
-- કાર્યસ્થળે diversityનું મહત્ત્વ સમજાવવું.
-- Inclusionને ટેકો આપતું વર્તન ઓળખવું.
-- Inclusive communication દ્વારા મતભેદ ઉકેલવાનો અભ્યાસ કરવો.
-
-## 1. What Makes a Team Diverse?
+## ❖ What Makes a Team Diverse?
 **Diversity** એટલે ટીમના સભ્યોના અનુભવ, કુશળતા, જ્ઞાન, વિચારો અને પૃષ્ઠભૂમિમાં રહેલી વિવિધતા. એક ટીમમાં અલગ તાલીમ, ભાષા, ઉંમર, કામનો અનુભવ, રસ અથવા problem-solving રીત ધરાવતા લોકો હોઈ શકે છે.
 
-## 2. Why Is Diversity Important?
+## ❖ Why Is Diversity Important?
 યોગ્ય રીતે સંચાલિત diversity:
 - સમસ્યાઓ માટે અલગ દૃષ્ટિકોણ આપે છે.
 - સભ્યોને એકબીજાથી શીખવાની તક આપે છે.
@@ -19,7 +12,7 @@
 
 માત્ર વિવિધતા હોવી પૂરતી નથી; સૌને ભાગ લેવાની વાસ્તવિક તક મળે ત્યારે ટીમ વધુ inclusive બને છે.
 
-## 3. Behaviours That Support Inclusion
+## ❖ Behaviours That Support Inclusion
 - સૌને માહિતી અને સૂચનાઓ ઉપલબ્ધ કરાવો.
 - જવાબદારી અને બોલવાની તક ન્યાયસંગત રીતે વહેંચો.
 - સરળ અને સમજાય તેવી ભાષા વાપરો.
@@ -28,7 +21,7 @@
 - મજાક, અપમાન અથવા બાકાત રાખવાની વર્તણૂકને પ્રોત્સાહન ન આપો.
 - મતભેદ હોય તો વ્યક્તિ પર નહીં, મુદ્દા પર ચર્ચા કરો.
 
-## 4. Inclusive Communication
+## ❖ Inclusive Communication
 ઉપયોગી વાક્યો:
 - “Would you like to share your idea?”
 - “Let us hear everyone’s opinion.”
@@ -38,7 +31,7 @@
 
 ગુજરાતી અર્થ: “શું તમે તમારો વિચાર શેર કરવા માંગો છો?”, “ચાલો સૌના મત સાંભળીએ” વગેરે.
 
-## 5. Resolving Differences
+## ❖ Resolving Differences
 1. દરેક વ્યક્તિને પોતાની વાત કહેવા દો.
 2. હકીકતો અને સમસ્યાને ઓળખો.
 3. એકબીજાની જરૂરિયાત સમજવાનો પ્રયત્ન કરો.
