@@ -1,12 +1,6 @@
-# 8.4 Gender at Work: Equality, Challenges, and Change
-**Source:** *Employability Skills – I (120 Hrs.)* syllabus, printed page 7.
+# ES-8.4 : કાર્યસ્થળે લિંગ-વિષયક પાસાં: સમાનતા, પડકારો અને પરિવર્તન
 
-## Learning Objectives
-- નોકરી અને તાલીમમાં gender stereotypes ઓળખવા.
-- આવા stereotypesની અસર સમજવી.
-- કાર્યસ્થળે gender equalityને ટેકો આપવાના ઉપાયો ઓળખવા.
-
-## 1. What Is a Gender Stereotype?
+## ❖ What Is a Gender Stereotype?
 **Gender stereotype** એટલે કોઈ વ્યક્તિની ક્ષમતા, રસ અથવા ભૂમિકા વિશે માત્ર તેના genderના આધારે સામાન્ય ધારણા બાંધી દેવી.
 
 ઉદાહરણ:
@@ -16,14 +10,14 @@
 
 આવા નિવેદનો વ્યક્તિગત કુશળતા અને પસંદગીને અવગણે છે. યોગ્ય મૂલ્યાંકન તાલીમ, કુશળતા, સલામતી અને કામની આવશ્યકતાઓ પર આધારિત હોવું જોઈએ.
 
-## 2. Impact of Stereotypes
+## ❖ Impact of Stereotypes
 Stereotypesના કારણે:
 - કોઈને તાલીમ અથવા કામ માટે અરજી કરતાં અટકાવાય શકે છે.
 - આત્મવિશ્વાસ ઘટી શકે છે.
 - કુશળ વ્યક્તિને તક ન મળે.
 - ટીમમાં અયોગ્ય વર્તન અને વિભાજન વધી શકે છે.
 
-## 3. Supporting Gender Equality at Work
+## ❖ Supporting Gender Equality at Work
 - ભરતી અને તાલીમમાં સંબંધિત કુશળતા તથા યોગ્ય માપદંડ વાપરો.
 - દરેકને શીખવાની અને પોતાની ક્ષમતા બતાવવાની તક આપો.
 - અપમાનજનક ટિપ્પણી અથવા હેરાનગતિને સામાન્ય ન માનો.
