@@ -1,21 +1,13 @@
-# Topic 5: Giving & Receiving Feedback
-## Module 6: Communication Skills
+# ES-6.4 : પ્રતિસાદ આપવો અને મેળવવો
 
-### Learning Outcomes
-By the end of this topic, learners will be able to:
-- Explain feedback and why it matters at work and in learning.
-- Give constructive feedback politely and helpfully.
-- Use positive language during peer review.
-- Receive feedback calmly and use it to improve.
-
-### 1. What Is Feedback?
+### ❖ What Is Feedback?
 Feedback is information about a person's work, behaviour, or performance. It helps identify what is going well and what can be improved.
 
 **ગુજરાતી સમજણ:** Feedback એટલે કોઈ વ્યક્તિના કામ, વર્તન અથવા કામગીરી વિશે આપવામાં આવતી ઉપયોગી માહિતી. તેનો હેતુ વ્યક્તિને નીચું બતાવવાનો નહીં, પરંતુ તેને વધુ સારું કામ કરવામાં મદદ કરવાનો છે.
 
 **Workplace example:** A trainer says, “Your wiring connections are neat. Before switching on the supply, check the connections once more for safety.” This recognizes good work and gives a clear next step.
 
-### 2. Why Is Feedback Important?
+### ❖ Why Is Feedback Important?
 Feedback helps people:
 - Identify strengths and areas for improvement.
 - Avoid repeating mistakes.
@@ -25,7 +17,7 @@ Feedback helps people:
 
 **ગુજરાતી સમજણ:** યોગ્ય પ્રતિસાદથી આપણે પોતાની ભૂલો સમજી શકીએ છીએ, સારી બાબતો ચાલુ રાખી શકીએ છીએ અને કામની ગુણવત્તા સુધારી શકીએ છીએ. Workshop અથવા job-site પર feedback સલામતી માટે પણ જરૂરી છે.
 
-### 3. How to Give Constructive Feedback
+### ❖ How to Give Constructive Feedback
 Constructive feedback focuses on the task and suggests a practical improvement. It should be respectful, specific, timely, and helpful.
 
 **A simple structure:**
@@ -42,7 +34,7 @@ Avoid personal attacks:
 - Unhelpful: “You are careless.”
 - Better: “Two measurements are missing from this sheet. Please check each row before submitting it.”
 
-### 4. Positive Language for Peer Review
+### ❖ Positive Language for Peer Review
 
 | Instead of saying | Try saying |
 |---|---|
@@ -53,7 +45,7 @@ Avoid personal attacks:
 
 **ગુજરાતી સમજણ:** વ્યક્તિ પર ટિપ્પણી કરવાને બદલે કામના ચોક્કસ ભાગ વિશે વાત કરો. “તમે ખરાબ છો” કહેવા કરતાં “આ પગલામાં સુધારો કરવાની જરૂર છે” કહેવું વધુ યોગ્ય છે.
 
-### 5. How to Receive Feedback
+### ❖ How to Receive Feedback
 1. Listen without interrupting.
 2. Stay calm and open-minded.
 3. Avoid immediately arguing or blaming others.
@@ -70,7 +62,7 @@ Useful responses:
 
 Receiving feedback does not mean agreeing with every comment immediately. If something seems incorrect, ask respectfully for clarification.
 
-### 6. Workplace Example
+### ❖ Workplace Example
 A learner submits a spreadsheet, but some totals are incorrect.
 
 **Constructive feedback:** “The headings are clear and the data is organized well. Some totals in column D appear incorrect. Please check the formulas in those rows before sharing the file.”
@@ -79,7 +71,7 @@ A learner submits a spreadsheet, but some totals are incorrect.
 
 **ગુજરાતી સમજણ:** પ્રતિસાદ ચોક્કસ છે અને સુધારાનો રસ્તો બતાવે છે. જવાબ આપનાર વ્યક્તિ ગુસ્સે થવાને બદલે ભૂલ ચકાસવાની તૈયારી બતાવે છે.
 
-### 7. Classroom Activity: Peer Review
+### ❖ Classroom Activity: Peer Review
 **Objective:** Practise giving helpful feedback using positive language.
 
 1. Work in pairs.
@@ -92,13 +84,13 @@ A learner submits a spreadsheet, but some totals are incorrect.
 
 **Reflection questions:** Was the feedback specific? Did it offer a clear improvement step? Which words kept the conversation respectful?
 
-### 8. Quick Revision
+### ❖ Quick Revision
 - Feedback helps improve work or performance.
 - Constructive feedback is specific, respectful, and useful.
 - Focus on the task, not personal insults.
 - Listen calmly, clarify doubts, and choose a practical next step.
 
-### 9. Assessment Questions
+### ❖ Assessment Questions
 **Short answer**
 1. What is feedback?
 2. Write three benefits of constructive feedback.
@@ -126,6 +118,4 @@ A learner submits a spreadsheet, but some totals are incorrect.
    - C. Blame someone else
    - D. Ignore every suggestion  
    **Answer: B**
-
-### Source Alignment
 Aligned to the Module 6 syllabus point “Giving & Receiving Feedback”: understanding feedback, giving constructive feedback politely, practising peer review, and receiving feedback without becoming defensive. Examples and activities are original teaching material.
