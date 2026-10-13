@@ -1,17 +1,6 @@
-# 9.1 Building a Positive Work Attitude
-## Workplace Behaviour & Attitude
+# ES-9.1 : કામ પ્રત્યે હકારાત્મક અભિગમ કેળવવો — કાર્યસ્થળ પર વર્તન અને અભિગમો
 
-**Syllabus duration for Module 9:** 05 Hrs.  
-**Source reference:** *Employability Skills I (120 Hrs.)*, printed page 7 (PDF page 5).
-
-## Learning Objectives
-આ lesson પછી વિદ્યાર્થી:
-- work behaviour અને attitude નો અર્થ સમજાવી શકશે.
-- attitude નો teamwork અને performance પર થતો પ્રભાવ ઓળખી શકશે.
-- professional interactions માટેના do’s and don’ts સમજાવી શકશે.
-- criticism, rejection અથવા failure પછી સુધારાની દિશામાં પગલાં લઈ શકશે.
-
-## 1. Understanding Behaviour and Attitude at Work
+## ❖ Understanding Behaviour and Attitude at Work
 
 ### Behaviour (વર્તન)
 Behaviour એટલે વ્યક્તિ કામની જગ્યાએ શું કરે છે અને બીજાઓ સાથે કેવી રીતે વર્તે છે. ઉદાહરણ તરીકે, સમયસર આવવું, સૂચનાઓ ધ્યાનથી સાંભળવી, સાધનોનો યોગ્ય ઉપયોગ કરવો અને સહકર્મીઓ સાથે સન્માનથી વાત કરવી.
@@ -21,7 +10,7 @@ Attitude એટલે કોઈ કામ, વ્યક્તિ અથવા �
 
 **યાદ રાખો:** Attitude અને behaviour સંબંધિત છે, પરંતુ એકસરખાં નથી. વલણ વિચાર અને દૃષ્ટિકોણ સાથે જોડાયેલું છે; વર્તન બહાર દેખાતી ક્રિયા છે.
 
-## 2. Impact of Attitude on Teamwork and Performance
+## ❖ Impact of Attitude on Teamwork and Performance
 
 સકારાત્મક attitude કામમાં મદદરૂપ બને છે કારણ કે વ્યક્તિ:
 - સૂચનો અને feedback સાંભળવા તૈયાર રહે છે.
@@ -33,7 +22,7 @@ Attitude એટલે કોઈ કામ, વ્યક્તિ અથવા �
 
 **ઉદાહરણ:** Workshop માં કોઈ સાધન યોગ્ય રીતે કામ ન કરે. એક વિદ્યાર્થી કહે, “આ સાધન ખરાબ છે, હવે કામ નહીં થાય.” બીજો વિદ્યાર્થી કહે, “ચાલો, સલામતી જાળવીને સમસ્યા તપાસીએ અને જરૂર પડે તો instructor ને જાણ કરીએ.” બીજું વલણ વધુ જવાબદાર છે.
 
-## 3. Professional Interactions: Do’s and Don’ts
+## ❖ Professional Interactions: Do’s and Don’ts
 
 ### Do’s — શું કરવું
 - સમયસર આવો અને નક્કી કરેલી પ્રક્રિયાઓનું પાલન કરો.
@@ -51,7 +40,7 @@ Attitude એટલે કોઈ કામ, વ્યક્તિ અથવા �
 - પરવાનગી વગર બીજાની વસ્તુઓ કે કામમાં ફેરફાર કરવો.
 - feedback સાંભળ્યા વગર તરત ગુસ્સે થવું.
 
-## 4. Bouncing Back from Criticism, Rejection, or Failure
+## ❖ Bouncing Back from Criticism, Rejection, or Failure
 
 Criticism એટલે કામ અથવા વર્તન અંગે સુધારા માટે મળતું સૂચન. Rejection એટલે કોઈ તક અથવા વિનંતી સ્વીકારવામાં ન આવે. Failure એટલે અપેક્ષિત પરિણામ ન મળવું. આ પરિસ્થિતિઓ શીખવાની તક બની શકે છે.
 
