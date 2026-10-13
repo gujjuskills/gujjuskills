@@ -1,12 +1,6 @@
-# 7.2 Asking and Responding to Questions
-**Source:** *Employability Skills – I (120 Hrs.)* syllabus, printed page 6.
+# ES-7.2 : પ્રશ્નો પૂછવા અને જવાબ આપવા — WH પ્રશ્નો અને જવાબ
 
-## Learning Objectives
-- What, Where, When, How અને Why જેવા question wordsનો ઉપયોગ કરવો.
-- સરળ WH questionsના જવાબ આપવા.
-- વર્ગખંડ, વર્કશોપ અને ગ્રાહક સેવા જેવી પરિસ્થિતિમાં પ્રશ્નોત્તરી કરવી.
-
-## 1. WH Question Words
+## ❖ WH Question Words
 
 | Word | ગુજરાતી અર્થ | Example |
 |---|---|---|
@@ -18,7 +12,7 @@
 | Who | કોણ | Who is your instructor? |
 | Which | કયું / કઈ | Which tool do we need? |
 
-## 2. Simple Questions and Answers
+## ❖ Simple Questions and Answers
 - **What is your name?** — My name is Meena.
 - **Where do you live?** — I live in Anand.
 - **When does the workshop start?** — It starts at 10 a.m.
@@ -29,7 +23,7 @@
 
 **ગુજરાતી સમજણ:** પ્રશ્નના શબ્દ પરથી જવાબની માહિતી ઓળખી શકાય છે. “Where” સ્થળ વિશે પૂછે છે, “When” સમય વિશે પૂછે છે અને “Why” કારણ પૂછે છે.
 
-## 3. Polite Questions
+## ❖ Polite Questions
 કામના સ્થળે નમ્રતાથી પૂછવું ઉપયોગી છે:
 - Could you please repeat that?
 - Can you help me, please?
@@ -39,7 +33,7 @@
 
 ગુજરાતી અર્થ: “શું તમે કૃપા કરીને ફરી કહેશો?”, “શું તમે મને મદદ કરી શકશો?” વગેરે.
 
-## 4. Real-world Practice
+## ❖ Real-world Practice
 
 ### In the classroom
 A: When is the test?  
@@ -57,7 +51,7 @@ B: The machine does not start.
 A: Where is the computer lab?  
 B: It is next to the office.
 
-## 5. Basic Sentence Structure
+## ❖ Basic Sentence Structure
 ઘણા સરળ પ્રશ્નોમાં:
 - **What/Where/When/Why + is/are + subject?**  
   Example: Where is the office?
