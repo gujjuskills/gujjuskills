@@ -1,13 +1,6 @@
-# 8.2 My Values and Our Constitution
-**Source:** *Employability Skills – I (120 Hrs.)* syllabus, printed pages 6–7.
+# ES-8.2 : મારા મૂલ્યો અને આપણું બંધારણ
 
-## Learning Objectives
-- વ્યક્તિગત અને કુટુંબના મૂલ્યો ઓળખવા.
-- Justice, Liberty, Equality અને Fraternity જેવા બંધારણીય મૂલ્યો સમજવા.
-- કાર્યસ્થળની પરિસ્થિતિઓમાં મૂલ્યો લાગુ કરવા.
-- Fundamental Rights અને Fundamental Duties વિશે મૂળભૂત સમજ મેળવવી.
-
-## 1. Personal and Family Values
+## ❖ Personal and Family Values
 **Values** એટલે આપણા નિર્ણયો અને વર્તનને માર્ગદર્શન આપતા સિદ્ધાંતો.
 
 સિલેબસમાં દર્શાવેલા મૂલ્યો:
@@ -18,7 +11,7 @@
 
 કુટુંબ અને સમાજમાંથી પણ લોકો સહકાર, જવાબદારી, વડીલોનો આદર, મદદ અને ઈમાનદારી જેવા મૂલ્યો શીખી શકે છે. દરેક કુટુંબની પરંપરા અલગ હોઈ શકે છે.
 
-## 2. Key Constitutional Values
+## ❖ Key Constitutional Values
 ભારતના બંધારણની પ્રસ્તાવનામાં મહત્વ ધરાવતા ચાર મૂલ્યો:
 
 ### Justice — ન્યાય
@@ -37,7 +30,7 @@
 દરેક વ્યક્તિની ગૌરવભાવના અને પરસ્પર એકતા જાળવવી.
 **Workplace example:** ટીમમાં નવા સભ્યને સ્વીકારવો અને તેને કામ સમજવામાં મદદ કરવી.
 
-## 3. Fundamental Rights and Duties
+## ❖ Fundamental Rights and Duties
 ભારતીય બંધારણ નાગરિકો માટે Fundamental Rights અને Fundamental Duties દર્શાવે છે. અધિકારો વ્યક્તિની સ્વતંત્રતા અને ગૌરવનું રક્ષણ કરે છે. ફરજો સમાજ, દેશ અને પર્યાવરણ પ્રત્યે જવાબદારીની યાદ અપાવે છે.
 
 સામાન્ય સમજ માટે:
@@ -49,7 +42,7 @@
 
 આ યાદી સમજ માટે સંક્ષિપ્ત છે; સંપૂર્ણ કાનૂની વ્યાખ્યા કે અધિકારોની સંપૂર્ણ યાદી નથી.
 
-## 4. Applying Values to Workplace Decisions
+## ❖ Applying Values to Workplace Decisions
 **પરિસ્થિતિ 1:** તમને ખ્યાલ આવે કે રિપોર્ટમાં તમારી ભૂલ છે.
 - Honesty: ભૂલ છુપાવવાને બદલે જણાવો.
 - Responsibility: સુધારાની રીત સૂચવો.
