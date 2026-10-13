@@ -58,19 +58,19 @@
 
 [ES-5.5 : પ્રશ્નો પૂછવા અને જવાબ આપવા — WH પ્રશ્નો અને જવાબ](../es-5.5)
 
-[ES-6.1 : Speak and Share Information about Workplace — કાર્યસ્થળ વિશે માહિતી અને અભિપ્રાય](../es-6.1)
+[ES-6.1 : કાર્યસ્થળ વિશે માહિતી અને અભિપ્રાય](../es-6.1)
 
-[ES-6.2 : Telephone Skills and Group Discussion — વ્યવસાયિક ફોન કોલ અને જૂથ ચર્ચા](../es-6.2)
+[ES-6.2 : વ્યવસાયિક ફોન કોલ અને જૂથ ચર્ચા](../es-6.2)
 
-[ES-6.3 : Reading and Understanding Simple Texts — સૂચનાઓ, સંકેતો અને Job Ads વાંચવા](../es-6.3)
+[ES-6.3 : સૂચનાઓ, સંકેતો અને Job Ads વાંચવા](../es-6.3)
 
-[ES-7.1 : Writing for Work — Messages, Emails, Leave Applications, Resume અને Cover Letter](../es-7.1)
+[ES-7.1 : કામકાજ માટે લેખન — સંદેશાઓ, ઈમેઈલ્સ, રજાની અરજીઓ, રિઝ્યૂમે અને કવર લેટર](../es-7.1)
 
-[ES-7.2 : Respecting Differences: Identity, Bias, and Belonging](../es-7.2)
+[ES-7.2 : ભિન્નતાઓનો આદર: ઓળખ, પૂર્વગ્રહ અને સંબંધની ભાવના](../es-7.2)
 
-[ES-7.3 : My Values and Our Constitution](../es-7.3)
+[ES-7.3 : મારા મૂલ્યો અને આપણું બંધારણ](../es-7.3)
 
-[ES-7.4 : Working in Diverse and Inclusive Teams](../es-7.4)
+[ES-7.4 : વિવિધતાપૂર્ણ અને સર્વસમાવેશક ટીમોમાં કામ કરવું](../es-7.4)
 
 [ES-7.5 : કાર્યસ્થળ પર લિંગ: સમાનતા, પડકારો અને પરિવર્તન](../es-7.5)
 
