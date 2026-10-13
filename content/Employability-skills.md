@@ -50,13 +50,13 @@
 
 [ES-5.1 : નાણાં વ્યવસ્થાપનનો પરિચય](../es-5.1)
 
-[ES-5.2 : Active Listening / Practice Effective Communication](../es-5.2)
+[ES-5.2 : સક્રિય શ્રવણ / અસરકારક સંવાદનો અભ્યાસ](../es-5.2)
 
-[ES-5.3 : Speaking Confidently and Respectfully](../es-5.3)
+[ES-5.3 : આત્મવિશ્વાસ અને આદરપૂર્વક વાત કરવી](../es-5.3)
 
-[ES-5.4 : Greetings & Self-Introduction — અભિવાદન અને પોતાનો પરિચય](../es-5.4)
+[ES-5.4 : અભિવાદન અને પોતાનો પરિચય](../es-5.4)
 
-[ES-5.5 : Asking and Responding to Questions — WH Questions અને જવાબ](../es-5.5)
+[ES-5.5 : પ્રશ્નો પૂછવા અને જવાબ આપવા — WH પ્રશ્નો અને જવાબ](../es-5.5)
 
 [ES-6.1 : Speak and Share Information about Workplace — કાર્યસ્થળ વિશે માહિતી અને અભિપ્રાય](../es-6.1)
 
