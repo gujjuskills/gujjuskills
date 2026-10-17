@@ -56,10 +56,11 @@ export const getStaticPaths = () => {
 export const getStaticProps = ({ params }) => {
   const posts = getSinglePage(`content/${blog_folder}`);
   const filterPosts = posts.filter((post) =>
-    post.frontmatter.categories.find((category) =>
-      slugify(category).includes(params.category)
-    )
-  );
+  Array.isArray(post.frontmatter.categories) &&
+  post.frontmatter.categories.some(
+    (category) => slugify(category) === params.category
+  )
+);
   const categories = getTaxonomy(`content/${blog_folder}`, "categories");
 
   const categoriesWithPostsCount = categories.map((category) => {
