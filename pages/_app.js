@@ -1,9 +1,9 @@
-import config from "@config/config.json";
+  import config from "@config/config.json";
 import theme from "@config/theme.json";
 import { JsonContext } from "context/state";
 import { ThemeProvider } from "next-themes";
 import Head from "next/head";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
 import Script from "next/script";
@@ -12,19 +12,7 @@ const App = ({ Component, pageProps }) => {
   // default theme setup
   const { default_theme } = config.settings;
 
-  // import google font css
-  const pf = theme.fonts.font_family.primary;
-  const sf = theme.fonts.font_family.secondary;
-  const [fontcss, setFontcss] = useState();
-  useEffect(() => {
-    fetch(
-      `https://fonts.googleapis.com/css2?family=${pf}${
-        sf ? "&family=" + sf : ""
-      }&display=swap`
-    ).then((res) => res.text().then((css) => setFontcss(css)));
-  }, [pf, sf]);
-
-  // google tag manager (gtm)
+    // google tag manager (gtm)
   const tagManagerArgs = {
     gtmId: config.params.tag_manager_id,
   };
@@ -40,17 +28,26 @@ const App = ({ Component, pageProps }) => {
   return (
     <JsonContext>
       <Head>
-        {/* google font css */}
+    
+      {/* Optimized Google Fonts loading */}
         <link
-          rel="preconnect"
-          href="https://fonts.gstatic.com"
-          crossOrigin="true"
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+      />
+      <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossOrigin="anonymous"
+      />
+      <link
+        rel="stylesheet"
+        href={`https://fonts.googleapis.com/css2?family=${theme.fonts.font_family.primary}${
+      theme.fonts.font_family.secondary
+            ? "&family=" + theme.fonts.font_family.secondary
+          : ""
+        }&display=swap`}
         />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `${fontcss}`,
-          }}
-        />
+    
         {/* responsive meta */}
         <meta
           name="viewport"
