@@ -14,7 +14,10 @@ const Post = ({ post }) => {
         {post.frontmatter.image && (
           <ImageFallback
             className="rounded"
-            src={post.frontmatter.image}
+            src={post.frontmatter.image.replace(
+              /\.(png|jpg|jpeg|webp)$/i,
+              "-thumb.webp"
+              )}
             alt={post.frontmatter.title}
             width={405}
             height={208}
