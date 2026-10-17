@@ -1,6 +1,7 @@
 import Logo from "@components/Logo";
 import menu from "@config/menu.json";
-import GoogleTranslate from "@layouts/components/GoogleTranslate";
+import socical from "@config/social.json";
+import Social from "@layouts/components/Social";
 import ThemeSwitcher from "@layouts/components/ThemeSwitcher";
 import SearchModal from "@partials/SearchModal";
 import Link from "next/link";
@@ -109,10 +110,8 @@ const Header = () => {
                 </React.Fragment>
               ))}
             </ul>
-            {/* Header Language Translation */}
-            <div className="header-translate">
-            <GoogleTranslate />
-            </div>
+            {/* header social */}
+              <Social source={socical} className="socials" />
           <ThemeSwitcher />
           {/* Header search */}
           <div
