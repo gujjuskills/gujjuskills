@@ -1,6 +1,6 @@
 ---
 title: "OnePlus ColorOS 17 Update: New Features, Release Date, Eligible Phones and AI Improvements"
-date: 2026-10-17T13:49:00Z
+date: 2026-17-10T13:49:00Z
 image: /images/post/post-2.webp
 categories: ["mobile"]
 featured: true
