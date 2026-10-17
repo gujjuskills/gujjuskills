@@ -2,7 +2,7 @@
 title: "How to make toys from old Olarpaper"
 date: 2022-04-04T04:00:00Z
 image: /images/post/post-4.webp
-categories: ["robotics", "programming"]
+categories: ["mobile", "programming"]
 featured: false
 draft: false
 ---
