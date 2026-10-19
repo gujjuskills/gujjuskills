@@ -28,27 +28,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <JsonContext>
       <Head>
-    
-      {/* Optimized Google Fonts loading */}
-        <link
-        rel="preconnect"
-        href="https://fonts.googleapis.com"
-      />
-      <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossOrigin="anonymous"
-      />
-      <link
-        rel="stylesheet"
-        href={`https://fonts.googleapis.com/css2?family=${theme.fonts.font_family.primary}${
-      theme.fonts.font_family.secondary
-            ? "&family=" + theme.fonts.font_family.secondary
-          : ""
-        }&display=swap`}
-        />
-    
-        {/* responsive meta */}
+     {/* responsive meta */}
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
