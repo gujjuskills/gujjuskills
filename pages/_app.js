@@ -12,7 +12,7 @@ const App = ({ Component, pageProps }) => {
   // default theme setup
   const { default_theme } = config.settings;
 
-    // google tag manager (gtm)
+  // google tag manager (gtm)
   const tagManagerArgs = {
     gtmId: config.params.tag_manager_id,
   };
