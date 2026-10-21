@@ -231,7 +231,7 @@ footer .socials {
   background: transparent !important;
   color: #000000 !important;
 }
-
+/* Google Translate button */
 .header-translate {
   display: flex;
   align-items: center;
@@ -248,4 +248,15 @@ footer .socials {
   background: #fff;
   color: #222;
   font-size: 13px;
+}
+
+/* Google Translate styling */
+.goog-te-gadget {
+  font-size: 13px !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+  margin: 4px 0 !important;
+  padding: 6px;
+  border-radius: 6px;
 }
