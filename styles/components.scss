@@ -232,13 +232,29 @@ footer .socials {
   color: #000000 !important;
 }
 
-/* Google Translate styling */
-.goog-te-gadget {
-  font-size: 13px !important;
+/* Google Translate header layout */
+
+.header-translate {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
 }
 
-.goog-te-gadget .goog-te-combo {
-  margin: 4px 0 !important;
-  padding: 6px;
-  border-radius: 6px;
+.header-translate .goog-te-gadget {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px !important;
+}
+
+.header-translate .goog-te-gadget span {
+  display: inline;
+}
+
+.header-translate .goog-te-combo {
+  margin: 0 !important;
+  max-width: 150px;
+  padding: 5px;
+  font-size: 13px;
 }
