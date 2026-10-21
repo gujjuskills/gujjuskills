@@ -1,42 +1,100 @@
+
 import { useEffect } from "react";
 
 const GoogleTranslate = () => {
   useEffect(() => {
-    window.googleTranslateElementInit = () => {
-      if (
-        window.google &&
-        window.google.translate &&
-        document.getElementById("google_translate_element")
-      ) {
-        new window.google.translate.TranslateElement(
-          {
-            pageLanguage: "en",
-            includedLanguages:
-              "en,gu,hi,es,fr,de,it,pt,ru,ja,ko,zh-CN,zh-TW,ar,bn,pa,mr,ta,te,kn,ml,ur,fa,tr,vi,th,id,ms,nl,pl,uk,ro,cs,sv,da,no,fi,el,he,hu,sk,bg,sr,hr,sl,sw,am,af,ca,et,lv,lt,ne,si,km,lo,my,fil",
-            autoDisplay: false,
-          },
-          "google_translate_element"
-        );
-      }
+    // Set this before loading the widget script.
+    window.gtranslateSettings = {
+      default_language: "en",
+      languages: [
+        "en",
+        "gu",
+        "hi",
+        "af",
+        "sq",
+        "am",
+        "ar",
+        "hy",
+        "az",
+        "eu",
+        "be",
+        "bn",
+        "bs",
+        "bg",
+        "ca",
+        "zh-CN",
+        "zh-TW",
+        "hr",
+        "cs",
+        "da",
+        "nl",
+        "et",
+        "fi",
+        "fr",
+        "de",
+        "el",
+        "he",
+        "hu",
+        "is",
+        "id",
+        "ga",
+        "it",
+        "ja",
+        "kn",
+        "ko",
+        "la",
+        "lv",
+        "lt",
+        "mk",
+        "ms",
+        "ml",
+        "mt",
+        "mr",
+        "ne",
+        "no",
+        "fa",
+        "pl",
+        "pt",
+        "pa",
+        "ro",
+        "ru",
+        "sr",
+        "sk",
+        "sl",
+        "es",
+        "sw",
+        "sv",
+        "tl",
+        "ta",
+        "te",
+        "th",
+        "tr",
+        "uk",
+        "ur",
+        "uz",
+        "vi",
+        "cy",
+        "zu"
+      ],
+      wrapper_selector: ".gtranslate_wrapper"
     };
 
-    if (!document.getElementById("google-translate-script")) {
+    const scriptId = "gtranslate-widget-script";
+
+    if (!document.getElementById(scriptId)) {
       const script = document.createElement("script");
-
-      script.id = "google-translate-script";
+      script.id = scriptId;
       script.src =
-        "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-      script.async = true;
-
+        "https://cdn.gtranslate.net/widgets/latest/dropdown.js";
+      script.defer = true;
       document.body.appendChild(script);
     }
   }, []);
 
   return (
     <div
-      id="google_translate_element"
-      className="google-translate"
-      title="Translate this page"
+      className="gtranslate_wrapper"
+      aria-label="Choose website language"
     />
   );
 };
