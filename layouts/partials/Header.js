@@ -8,6 +8,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { IoSearch } from "react-icons/io5";
+import GoogleTranslate from "../components/GoogleTranslate";
 
 const Header = () => {
   // distructuring the main menu from menu object
@@ -111,7 +112,9 @@ const Header = () => {
               ))}
             </ul>
             {/* header social */}
-            <Social source={socical} className="socials" />
+            <div className="header-translate">
+            <GoogleTranslate />
+            </div>
           </div>
           <ThemeSwitcher />
           {/* Header search */}
