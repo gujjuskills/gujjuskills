@@ -120,13 +120,8 @@ const PostSingle = ({
               </article>
 
               <div className="mt-16">
-                {disqus.enable && (
-                  <DiscussionEmbed
-                    key={theme}
-                    shortname={disqus.shortname}
-                    config={disqusConfig}
-                  />
-                )}
+
+                    
               </div>
             </div>
 
