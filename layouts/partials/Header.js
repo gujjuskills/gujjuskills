@@ -117,7 +117,6 @@ const Header = () => {
             </div>
           </div>
           <ThemeSwitcher />
-          <GoogleTranslate />
           {/* Header search */}
           <div
             className="search-icon"
