@@ -1,6 +1,6 @@
 ---
 title: "how to make dependent dropdown lists in excel"
-date: 2026-10-21T09:39:00Z
+date: 2026-10-20T09:39:00Z
 image: /images/post/post-3.webp
 categories: ["Computer"]
 featured: true
