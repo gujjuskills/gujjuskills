@@ -3,12 +3,13 @@ import menu from "@config/menu.json";
 import socical from "@config/social.json";
 import Social from "@layouts/components/Social";
 import ThemeSwitcher from "@layouts/components/ThemeSwitcher";
+import GoogleTranslate from "@layouts/components/GoogleTranslate";
 import SearchModal from "@partials/SearchModal";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { IoSearch } from "react-icons/io5";
-import GoogleTranslate from "@layouts/components/GoogleTranslate";
+
 
 const Header = () => {
   // distructuring the main menu from menu object
