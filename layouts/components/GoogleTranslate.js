@@ -1,59 +1,43 @@
-
 import { useEffect } from "react";
-import Script from "next/script";
 
 const GoogleTranslate = () => {
   useEffect(() => {
-    const initialize = () => {
-      const TranslateElement =
-        window.google?.translate?.TranslateElement;
-
-      const container = document.getElementById(
-        "google_translate_element"
-      );
-
-      if (!TranslateElement || !container) return;
-      if (container.dataset.initialized === "true") return;
-
-      container.innerHTML = "";
-
-      new TranslateElement(
-        {
-          pageLanguage: "en",
-          layout:
-            TranslateElement.InlineLayout.SIMPLE,
-          autoDisplay: false,
-        },
-        "google_translate_element"
-      );
-
-      container.dataset.initialized = "true";
+    window.googleTranslateElementInit = () => {
+      if (
+        window.google &&
+        window.google.translate &&
+        document.getElementById("google_translate_element")
+      ) {
+        new window.google.translate.TranslateElement(
+          {
+            pageLanguage: "en",
+            includedLanguages:
+              "en,gu,hi,es,fr,de,it,pt,ru,ja,ko,zh-CN,zh-TW,ar,bn,pa,mr,ta,te,kn,ml,ur,fa,tr,vi,th,id,ms,nl,pl,uk,ro,cs,sv,da,no,fi,el,he,hu,sk,bg,sr,hr,sl,sw,am,af,ca,et,lv,lt,ne,si,km,lo,my,fil",
+            autoDisplay: false,
+          },
+          "google_translate_element"
+        );
+      }
     };
 
-    window.googleTranslateElementInit = initialize;
+    if (!document.getElementById("google-translate-script")) {
+      const script = document.createElement("script");
 
-    if (window.google?.translate?.TranslateElement) {
-      initialize();
+      script.id = "google-translate-script";
+      script.src =
+        "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+      script.async = true;
+
+      document.body.appendChild(script);
     }
-
-    return () => {
-      delete window.googleTranslateElementInit;
-    };
   }, []);
 
   return (
-    <>
-      <div
-        id="google_translate_element"
-        className="google-translate-container"
-      />
-
-      <Script
-        id="google-translate-script"
-        src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
-        strategy="afterInteractive"
-      />
-    </>
+    <div
+      id="google_translate_element"
+      className="google-translate"
+      title="Translate this page"
+    />
   );
 };
 
