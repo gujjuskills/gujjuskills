@@ -231,3 +231,21 @@ footer .socials {
   background: transparent !important;
   color: #000000 !important;
 }
+
+.header-translate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 12px;
+  min-width: 100px;
+}
+
+.header-translate select {
+  max-width: 150px;
+  padding: 6px 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fff;
+  color: #222;
+  font-size: 13px;
+}
