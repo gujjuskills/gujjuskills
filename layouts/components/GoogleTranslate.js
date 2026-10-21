@@ -1,49 +1,45 @@
 
-import { useCallback, useEffect } from "react";
+import { useEffect } from "react";
 import Script from "next/script";
 
 const GoogleTranslate = () => {
-  const initializeTranslate = useCallback(() => {
-    const googleTranslate = window.google?.translate?.TranslateElement;
-    const container = document.getElementById(
-      "google_translate_element"
-    );
-
-    if (!googleTranslate || !container) return;
-
-    if (container.dataset.initialized === "true") return;
-
-    container.innerHTML = "";
-
-    new googleTranslate(
-      {
-        pageLanguage: "en",
-        includedLanguages: "en,gu,hi",
-        layout:
-          googleTranslate.InlineLayout.SIMPLE,
-        autoDisplay: false,
-      },
-      "google_translate_element"
-    );
-
-    container.dataset.initialized = "true";
-  }, []);
-
   useEffect(() => {
+    const initialize = () => {
+      const TranslateElement =
+        window.google?.translate?.TranslateElement;
+
+      const container = document.getElementById(
+        "google_translate_element"
+      );
+
+      if (!TranslateElement || !container) return;
+      if (container.dataset.initialized === "true") return;
+
+      container.innerHTML = "";
+
+      new TranslateElement(
+        {
+          pageLanguage: "en",
+          layout:
+            TranslateElement.InlineLayout.SIMPLE,
+          autoDisplay: false,
+        },
+        "google_translate_element"
+      );
+
+      container.dataset.initialized = "true";
+    };
+
+    window.googleTranslateElementInit = initialize;
+
     if (window.google?.translate?.TranslateElement) {
-      initializeTranslate();
-      return;
+      initialize();
     }
 
-    const timer = window.setInterval(() => {
-      if (window.google?.translate?.TranslateElement) {
-        window.clearInterval(timer);
-        initializeTranslate();
-      }
-    }, 300);
-
-    return () => window.clearInterval(timer);
-  }, [initializeTranslate]);
+    return () => {
+      delete window.googleTranslateElementInit;
+    };
+  }, []);
 
   return (
     <>
@@ -54,9 +50,8 @@ const GoogleTranslate = () => {
 
       <Script
         id="google-translate-script"
-        src="https://translate.google.com/translate_a/element.js"
+        src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
         strategy="afterInteractive"
-        onReady={initializeTranslate}
       />
     </>
   );
