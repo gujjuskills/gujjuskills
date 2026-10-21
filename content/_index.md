@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Welcome To GujjuSkills Blog **!**
+  title: Welcome To GujjuSkills  **!**
   title_small: "Skill Up Shine Bright"
   image_enable: true
   image: /images/banner-author1.webp
