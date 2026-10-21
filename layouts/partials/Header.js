@@ -112,11 +112,8 @@ const Header = () => {
                 </React.Fragment>
               ))}
             </ul>
-            {/* header translate */}
-            <div className="header-translate">
-            <GoogleTranslate />
             </div>
-          </div>
+          <GoogleTranslate />    
           <ThemeSwitcher />
           {/* Header search */}
           <div
