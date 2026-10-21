@@ -232,29 +232,40 @@ footer .socials {
   color: #000000 !important;
 }
 
-/* Google Translate header layout */
-
+/* Google Translate header selector */
 .header-translate {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   white-space: nowrap;
+  max-width: 190px;
 }
 
 .header-translate .goog-te-gadget {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  font-size: 12px !important;
-}
-
-.header-translate .goog-te-gadget span {
-  display: inline;
+  flex-wrap: wrap;
+  font-size: 11px !important;
+  line-height: 1.4;
 }
 
 .header-translate .goog-te-combo {
   margin: 0 !important;
-  max-width: 150px;
-  padding: 5px;
-  font-size: 13px;
+  max-width: 145px;
+  padding: 5px 7px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: white;
+  color: #222;
+  font-size: 12px;
+}
+
+@media (max-width: 640px) {
+  .header-translate {
+    max-width: 150px;
+  }
+
+  .header-translate .goog-te-combo {
+    max-width: 125px;
+  }
 }
