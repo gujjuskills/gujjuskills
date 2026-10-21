@@ -36,7 +36,7 @@ const Header = () => {
         <div className="order-0">
           <Logo />
         </div>
-        <div className="flex items-center space-x-4 xl:space-x-8">
+        <div className="flex flex-1 items-center justify-start space-x-4 ml-6 xl:space-x-8">
           <div
             className={`collapse-menu ${
               !showMenu && "translate-x-full"
