@@ -3,7 +3,7 @@ body.menu-open {
 }
 
 .header {
-  @apply sticky top-0 z-50 py-1;
+  @apply sticky top-0 z-50 py-2;
   transform: translateY(0);
   transition: transform 150ms linear;
 }
