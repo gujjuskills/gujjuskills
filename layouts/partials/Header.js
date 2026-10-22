@@ -31,6 +31,32 @@ const Header = () => {
     }
   }, [showMenu]);
 
+ // Show header immediately when scrolling upward
+  useEffect(() => {
+    const header = document.querySelector(".header");
+    if (!header) return;
+
+    let lastScrollY = window.scrollY;
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+
+      if (showMenu || currentScrollY <= 50 || currentScrollY < lastScrollY) {
+        header.classList.remove("header-hidden");
+      } else if (currentScrollY > lastScrollY) {
+        header.classList.add("header-hidden");
+      }
+
+      lastScrollY = currentScrollY;
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [showMenu]);
+  
   return (
     <header className="header">
       <nav className="navbar container px-1 sm:px-8">
