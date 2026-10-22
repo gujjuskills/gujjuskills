@@ -31,17 +31,21 @@ const Header = () => {
     }
   }, [showMenu]);
 
- // Show header immediately when scrolling upward
+  // Show header when scrolling upward
   useEffect(() => {
-    const header = document.querySelector(".header");
-    if (!header) return;
-
     let lastScrollY = window.scrollY;
 
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
+      const header = document.querySelector(".header");
 
-      if (showMenu || currentScrollY <= 50 || currentScrollY < lastScrollY) {
+      if (!header) return;
+
+      if (
+        showMenu ||
+        currentScrollY <= 50 ||
+        currentScrollY < lastScrollY
+      ) {
         header.classList.remove("header-hidden");
       } else if (currentScrollY > lastScrollY) {
         header.classList.add("header-hidden");
@@ -50,7 +54,9 @@ const Header = () => {
       lastScrollY = currentScrollY;
     };
 
-    window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("scroll", handleScroll, {
+      passive: true,
+    });
 
     return () => {
       window.removeEventListener("scroll", handleScroll);
