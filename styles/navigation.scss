@@ -85,3 +85,13 @@ body.menu-open {
     @apply border-darkmode-border;
   }
 }
+
+/* Make header menu text bold */
+.navbar-nav .nav-link {
+  font-weight: 700;
+}
+
+/* Make dropdown menu text bold */
+.nav-dropdown-link {
+  font-weight: 700;
+}
