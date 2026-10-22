@@ -5,7 +5,8 @@ body.menu-open {
 .header {
   @apply top-0 z-50 border-b bg-body py-2 dark:border-darkmode-border dark:bg-darkmode-body;
   transform: translateY(0);
-  transition: transform 150ms linear;
+  transition: transform 150ms ease-out;
+  will-change: transform;
 }
 
 .header.header-hidden {
