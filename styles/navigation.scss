@@ -3,7 +3,9 @@ body.menu-open {
 }
 
 .header {
-  @apply top-0 z-50 border-b bg-body py-[33px] dark:border-darkmode-border dark:bg-darkmode-body;
+  @apply sticky top-0 z-50 py-1;
+  transform: translateY(0);
+  transition: transform 150ms linear;
 }
 
 // navbar items
