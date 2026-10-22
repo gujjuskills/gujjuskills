@@ -3,13 +3,12 @@ import menu from "@config/menu.json";
 import socical from "@config/social.json";
 import Social from "@layouts/components/Social";
 import ThemeSwitcher from "@layouts/components/ThemeSwitcher";
-import GoogleTranslate from "@layouts/components/GoogleTranslate";
 import SearchModal from "@partials/SearchModal";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import { IoSearch } from "react-icons/io5";
-
+import GoogleTranslate from "@layouts/components/GoogleTranslate";
 
 const Header = () => {
   // distructuring the main menu from menu object
@@ -31,45 +30,13 @@ const Header = () => {
     }
   }, [showMenu]);
 
-  // Show header when scrolling upward
-  useEffect(() => {
-    let lastScrollY = window.scrollY;
-
-    const handleScroll = () => {
-      const currentScrollY = window.scrollY;
-      const header = document.querySelector(".header");
-
-      if (!header) return;
-
-      if (
-        showMenu ||
-        currentScrollY <= 50 ||
-        currentScrollY < lastScrollY
-      ) {
-        header.classList.remove("header-hidden");
-      } else if (currentScrollY > lastScrollY) {
-        header.classList.add("header-hidden");
-      }
-
-      lastScrollY = currentScrollY;
-    };
-
-    window.addEventListener("scroll", handleScroll, {
-      passive: true,
-    });
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, [showMenu]);
-  
   return (
     <header className="header">
       <nav className="navbar container px-1 sm:px-8">
         <div className="order-0">
           <Logo />
         </div>
-        <div className="flex flex-1 items-center justify-start space-x-4 ml-6 xl:space-x-8">
+        <div className="flex items-center space-x-4 xl:space-x-8">
           <div
             className={`collapse-menu ${
               !showMenu && "translate-x-full"
@@ -144,11 +111,11 @@ const Header = () => {
                 </React.Fragment>
               ))}
             </ul>
-               <div className="mt-4 lg:mt-0">
-              <GoogleTranslate />
+            {/* header translate */}
+            <div className="header-translate">
+            <GoogleTranslate />
             </div>
           </div>
-                        
           <ThemeSwitcher />
           {/* Header search */}
           <div
