@@ -8,7 +8,14 @@ body.menu-open {
 
 // navbar items
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between;
+  background: #0369A1;
+  width: 100%;
+  min-height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1001;
 }
 
 .collapse-menu {
