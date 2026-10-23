@@ -89,13 +89,13 @@ const Home = ({
       </section>
 
       {/* Home main */}
-      <section className="section">
+        <section className="section home-main-section">
         <div className="container">
           <div className="row items-start">
             <div className="mb-12 lg:mb-0 lg:col-8">
               {/* Featured posts */}
               {featured_posts.enable && (
-                <div className="section">
+               <div className="featured-posts-section">
                   {markdownify(featured_posts.title, "h2", "section-title")}
                   <div className="rounded border border-border p-6 dark:border-darkmode-border">
                     <div className="row">
