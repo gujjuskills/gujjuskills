@@ -1,5 +1,11 @@
-
-# How to Use the Scan Document Feature in WhatsApp
+---
+title: "How to Use the Scan Document Feature in WhatsApp"
+date: 2026-10-29T10:15:00Z
+image: /images/post/post-5.webp
+categories: ["Mobile"]
+featured: true
+draft: false
+---
 
 You can use WhatsApp's Scan Document feature to scan paper documents, convert them into a PDF, and send them directly to anyone.
 
