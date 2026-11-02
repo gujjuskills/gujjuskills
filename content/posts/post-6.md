@@ -1,7 +1,7 @@
 
 ---
 title: "EPFO WhatsApp Service 2026: Check PF Balance, Last 5 Transactions and Passbook"
-date: 2026-11-02T10:15:00Z
+date: 2026-11-01T10:15:00Z
 image: /images/post/post-6.webp
 categories: ["latestnews"]
 featured: true
