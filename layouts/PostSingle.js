@@ -5,7 +5,6 @@ import InnerPagination from "@layouts/components/InnerPagination";
 import GoogleAd from "@layouts/components/GoogleAd";
 import dateFormat from "@lib/utils/dateFormat";
 import { markdownify } from "@lib/utils/textConverter";
-import { DiscussionEmbed } from "disqus-react";
 import { MDXRemote } from "next-mdx-remote";
 import { useTheme } from "next-themes";
 import Link from "next/link";
