@@ -2,7 +2,7 @@
   output: "export",
 
   images: {
-    unoptimized: true,
+    unoptimized: false,
   },
 
   trailingSlash: true,
